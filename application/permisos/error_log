@@ -1,0 +1,1022 @@
+[18-Oct-2024 14:58:25 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[18-Oct-2024 14:58:25 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[18-Oct-2024 14:58:25 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[18-Oct-2024 16:36:50 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[18-Oct-2024 16:36:50 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[18-Oct-2024 16:36:50 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[18-Oct-2024 16:38:17 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[18-Oct-2024 16:38:17 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[20-Oct-2024 22:36:23 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[20-Oct-2024 22:36:23 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[20-Oct-2024 22:36:23 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[20-Oct-2024 22:38:29 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[20-Oct-2024 22:38:29 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[20-Oct-2024 22:38:29 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[21-Oct-2024 17:48:46 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[21-Oct-2024 17:48:46 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[21-Oct-2024 17:48:46 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[21-Oct-2024 17:49:20 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[21-Oct-2024 17:49:20 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Oct-2024 06:47:41 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Oct-2024 06:47:41 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Oct-2024 07:15:12 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[22-Oct-2024 07:15:12 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[22-Oct-2024 07:15:12 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[22-Oct-2024 09:50:11 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[22-Oct-2024 09:50:11 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[22-Oct-2024 09:50:11 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[23-Oct-2024 08:19:23 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[23-Oct-2024 08:19:23 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[23-Oct-2024 08:19:23 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[23-Oct-2024 11:06:44 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[23-Oct-2024 11:06:44 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[23-Oct-2024 11:06:44 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[23-Oct-2024 11:53:47 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[23-Oct-2024 11:53:47 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[23-Oct-2024 16:02:16 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[23-Oct-2024 16:02:16 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[23-Oct-2024 16:02:16 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[23-Oct-2024 16:05:18 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[23-Oct-2024 16:05:18 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[23-Oct-2024 16:19:52 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[23-Oct-2024 16:19:52 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[23-Oct-2024 19:53:53 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[23-Oct-2024 19:53:53 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[23-Oct-2024 19:53:53 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[24-Oct-2024 16:06:16 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[24-Oct-2024 16:06:16 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[25-Oct-2024 08:18:28 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[25-Oct-2024 08:18:28 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[25-Oct-2024 08:18:28 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[25-Oct-2024 09:04:03 America/Bogota] PHP Warning:  unlink(../../documentos/permisos/): Is a directory in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 386
+[25-Oct-2024 09:34:24 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[25-Oct-2024 09:34:24 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[25-Oct-2024 09:34:24 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[25-Oct-2024 15:14:04 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[25-Oct-2024 15:14:04 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[28-Oct-2024 07:00:30 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[28-Oct-2024 07:00:30 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[28-Oct-2024 07:00:30 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[28-Oct-2024 09:37:40 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[28-Oct-2024 09:37:40 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[28-Oct-2024 09:37:40 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[28-Oct-2024 11:46:25 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[28-Oct-2024 11:46:25 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[28-Oct-2024 11:46:25 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[28-Oct-2024 11:50:24 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[28-Oct-2024 11:50:24 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[28-Oct-2024 14:10:30 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[28-Oct-2024 14:10:30 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[28-Oct-2024 14:10:30 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[28-Oct-2024 14:40:10 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[28-Oct-2024 14:40:10 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[28-Oct-2024 14:40:10 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[28-Oct-2024 21:38:32 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[28-Oct-2024 21:38:32 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[28-Oct-2024 21:38:32 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[28-Oct-2024 21:41:08 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[28-Oct-2024 21:41:08 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[28-Oct-2024 21:42:47 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[28-Oct-2024 21:42:47 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[29-Oct-2024 07:07:59 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[29-Oct-2024 07:07:59 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[29-Oct-2024 07:07:59 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[29-Oct-2024 09:03:47 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[29-Oct-2024 09:03:47 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[29-Oct-2024 09:20:35 America/Bogota] PHP Warning:  unlink(../../documentos/permisos/): Is a directory in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 386
+[29-Oct-2024 09:26:26 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[29-Oct-2024 09:26:26 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[29-Oct-2024 09:27:49 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[29-Oct-2024 09:27:49 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[29-Oct-2024 15:54:29 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[29-Oct-2024 15:54:29 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[29-Oct-2024 15:54:29 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[30-Oct-2024 07:04:49 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[30-Oct-2024 07:04:49 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[30-Oct-2024 07:04:49 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[30-Oct-2024 07:30:07 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[30-Oct-2024 07:30:07 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[30-Oct-2024 08:56:13 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[30-Oct-2024 08:56:13 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[30-Oct-2024 08:56:13 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[30-Oct-2024 09:26:53 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[30-Oct-2024 09:26:53 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[30-Oct-2024 09:26:53 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[31-Oct-2024 05:15:17 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[31-Oct-2024 05:15:17 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[31-Oct-2024 05:15:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[31-Oct-2024 05:15:20 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[31-Oct-2024 05:15:20 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[31-Oct-2024 07:02:08 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[31-Oct-2024 07:02:08 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[31-Oct-2024 07:02:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[31-Oct-2024 07:03:46 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[31-Oct-2024 07:03:46 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[01-Nov-2024 13:00:38 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[01-Nov-2024 13:00:38 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[01-Nov-2024 13:00:38 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[01-Nov-2024 13:01:35 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[01-Nov-2024 13:01:35 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[01-Nov-2024 13:13:05 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[01-Nov-2024 13:13:05 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[01-Nov-2024 16:40:43 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[01-Nov-2024 16:40:43 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[01-Nov-2024 17:46:27 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[01-Nov-2024 17:46:27 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[01-Nov-2024 17:46:27 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[03-Nov-2024 14:39:26 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[03-Nov-2024 14:39:26 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[03-Nov-2024 14:39:26 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[03-Nov-2024 14:39:26 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[03-Nov-2024 14:39:26 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[03-Nov-2024 14:39:26 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[04-Nov-2024 12:39:42 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[04-Nov-2024 12:39:42 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[04-Nov-2024 12:39:42 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[04-Nov-2024 12:40:41 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[04-Nov-2024 12:40:41 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[04-Nov-2024 12:41:32 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[04-Nov-2024 12:41:32 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[04-Nov-2024 12:42:31 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[04-Nov-2024 12:42:31 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[04-Nov-2024 23:27:01 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[04-Nov-2024 23:27:01 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[04-Nov-2024 23:27:01 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[04-Nov-2024 23:28:49 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[04-Nov-2024 23:28:49 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[05-Nov-2024 08:25:43 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[05-Nov-2024 08:25:43 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[05-Nov-2024 08:25:43 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[06-Nov-2024 09:13:52 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[06-Nov-2024 09:13:52 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[07-Nov-2024 05:21:00 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[07-Nov-2024 05:21:00 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[07-Nov-2024 07:21:44 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 291
+[07-Nov-2024 07:21:44 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 292
+[07-Nov-2024 07:21:44 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 327
+[07-Nov-2024 07:21:44 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 330
+[07-Nov-2024 07:21:44 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 346
+[07-Nov-2024 07:21:44 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 349
+[07-Nov-2024 07:21:53 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[07-Nov-2024 07:21:53 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[07-Nov-2024 07:21:53 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[07-Nov-2024 07:42:52 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[07-Nov-2024 07:42:52 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[07-Nov-2024 10:03:52 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[07-Nov-2024 10:03:52 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[07-Nov-2024 10:03:52 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[08-Nov-2024 07:45:22 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[08-Nov-2024 07:45:22 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[08-Nov-2024 09:31:39 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[08-Nov-2024 09:31:39 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[08-Nov-2024 09:31:39 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[08-Nov-2024 12:39:34 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[08-Nov-2024 12:39:34 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[08-Nov-2024 12:41:06 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[08-Nov-2024 12:41:06 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[12-Nov-2024 06:58:08 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[12-Nov-2024 06:58:08 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[12-Nov-2024 06:58:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[12-Nov-2024 09:47:05 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[12-Nov-2024 09:47:05 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[12-Nov-2024 10:17:28 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[12-Nov-2024 10:17:28 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[12-Nov-2024 11:26:32 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 7
+[12-Nov-2024 11:26:32 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 18
+[12-Nov-2024 11:26:32 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:19
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(19): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[12-Nov-2024 11:26:59 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[12-Nov-2024 11:26:59 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[12-Nov-2024 12:07:53 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[12-Nov-2024 12:07:53 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[12-Nov-2024 12:24:08 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[12-Nov-2024 12:24:08 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[12-Nov-2024 14:04:36 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 7
+[12-Nov-2024 14:04:36 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 18
+[12-Nov-2024 14:04:36 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:19
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(19): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[12-Nov-2024 16:33:47 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[12-Nov-2024 16:33:47 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[13-Nov-2024 05:42:35 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 7
+[13-Nov-2024 05:42:35 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 18
+[13-Nov-2024 05:42:35 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:19
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(19): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[13-Nov-2024 07:57:32 America/Bogota] PHP Warning:  unlink(../../documentos/permisos/): Is a directory in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 386
+[13-Nov-2024 09:20:05 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[13-Nov-2024 09:20:05 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[13-Nov-2024 10:35:25 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[13-Nov-2024 10:35:25 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[13-Nov-2024 10:50:22 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 7
+[13-Nov-2024 10:50:22 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 18
+[13-Nov-2024 10:50:22 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:19
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(19): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[13-Nov-2024 12:09:20 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[13-Nov-2024 12:09:20 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[14-Nov-2024 06:20:47 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 7
+[14-Nov-2024 06:20:47 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 18
+[14-Nov-2024 06:20:47 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:19
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(19): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[14-Nov-2024 11:27:30 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[14-Nov-2024 11:27:30 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[14-Nov-2024 12:23:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 12:23:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 12:23:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 12:23:41 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 12:23:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 12:23:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 12:23:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 12:23:41 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 12:23:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla2.php on line 28
+[14-Nov-2024 12:23:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla2.php on line 28
+[14-Nov-2024 12:23:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla2.php on line 37
+[14-Nov-2024 12:23:41 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla2.php on line 37
+[14-Nov-2024 12:23:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla2.php on line 44
+[14-Nov-2024 14:06:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 14:06:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 14:06:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 14:06:41 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 14:06:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 14:06:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 14:06:41 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 14:06:41 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 14:06:41 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 12
+[14-Nov-2024 14:06:41 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `id_per`ASC' at line 6 in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php:14
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php(14): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(33): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 14
+[14-Nov-2024 14:06:42 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[14-Nov-2024 14:06:42 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[14-Nov-2024 15:17:09 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 15:17:09 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 15:17:09 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 15:17:09 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 15:17:09 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 15:17:09 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 15:17:09 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 15:17:09 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 15:17:09 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 12
+[14-Nov-2024 15:17:09 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `id_per`ASC' at line 6 in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php:14
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php(14): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(33): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 14
+[14-Nov-2024 16:13:30 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 16:13:30 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 16:13:30 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 16:13:30 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 16:13:30 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 16:13:30 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 16:13:30 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 16:13:30 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 16:13:30 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 12
+[14-Nov-2024 16:13:30 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `id_per`ASC' at line 6 in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php:14
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php(14): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(33): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 14
+[14-Nov-2024 16:13:34 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 16:13:34 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 16:13:34 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 16:13:34 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[14-Nov-2024 16:13:34 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 16:13:34 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 16:13:34 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 16:13:34 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[14-Nov-2024 16:13:34 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 12
+[14-Nov-2024 16:13:34 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `id_per`ASC' at line 6 in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php:14
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php(14): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(33): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 14
+[15-Nov-2024 07:58:43 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[15-Nov-2024 07:58:43 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[15-Nov-2024 07:58:43 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[15-Nov-2024 07:58:43 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[15-Nov-2024 07:58:43 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[15-Nov-2024 07:58:43 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[15-Nov-2024 07:58:43 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[15-Nov-2024 07:58:43 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[15-Nov-2024 07:58:43 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 12
+[15-Nov-2024 07:58:43 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `id_per`ASC' at line 6 in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php:14
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php(14): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(33): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 14
+[15-Nov-2024 08:28:05 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[15-Nov-2024 08:28:05 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[15-Nov-2024 08:29:03 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[15-Nov-2024 08:29:03 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[15-Nov-2024 09:43:54 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[15-Nov-2024 09:43:54 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[15-Nov-2024 13:32:49 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 12
+[15-Nov-2024 13:32:49 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `id_per`ASC' at line 6 in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php:14
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php(14): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 14
+[16-Nov-2024 17:38:42 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[16-Nov-2024 17:38:42 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[16-Nov-2024 17:38:42 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[16-Nov-2024 17:38:42 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[16-Nov-2024 17:38:42 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[16-Nov-2024 17:38:42 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[16-Nov-2024 17:38:42 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[16-Nov-2024 17:38:42 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[16-Nov-2024 17:38:42 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 12
+[16-Nov-2024 17:38:42 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `id_per`ASC' at line 6 in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php:14
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php(14): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(33): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 14
+[16-Nov-2024 17:42:15 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[16-Nov-2024 17:42:15 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[16-Nov-2024 17:43:42 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[16-Nov-2024 17:43:42 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[16-Nov-2024 17:44:43 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[16-Nov-2024 17:44:43 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[16-Nov-2024 17:45:58 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[16-Nov-2024 17:45:58 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[18-Nov-2024 08:51:16 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[18-Nov-2024 08:51:16 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[18-Nov-2024 08:51:16 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[18-Nov-2024 08:51:16 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[18-Nov-2024 08:51:16 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[18-Nov-2024 08:51:16 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[18-Nov-2024 08:51:16 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[18-Nov-2024 08:51:16 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[18-Nov-2024 08:51:16 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 12
+[18-Nov-2024 08:51:16 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `id_per`ASC' at line 6 in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php:14
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php(14): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(33): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 14
+[18-Nov-2024 16:22:08 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[18-Nov-2024 16:22:08 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[18-Nov-2024 16:22:43 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[18-Nov-2024 16:22:43 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[18-Nov-2024 19:42:10 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[18-Nov-2024 19:42:10 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[19-Nov-2024 09:36:01 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[19-Nov-2024 09:36:02 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[19-Nov-2024 09:48:29 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[19-Nov-2024 09:48:29 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[19-Nov-2024 10:53:58 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[19-Nov-2024 10:53:58 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[19-Nov-2024 10:53:58 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[19-Nov-2024 10:53:58 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[19-Nov-2024 10:53:58 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[19-Nov-2024 10:53:58 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[19-Nov-2024 10:53:58 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[19-Nov-2024 10:53:58 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[19-Nov-2024 10:53:58 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla2.php on line 28
+[19-Nov-2024 10:53:58 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla2.php on line 28
+[19-Nov-2024 10:53:58 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla2.php on line 37
+[19-Nov-2024 10:53:58 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla2.php on line 37
+[19-Nov-2024 10:53:58 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla2.php on line 44
+[19-Nov-2024 14:30:14 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[19-Nov-2024 14:30:14 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[20-Nov-2024 12:45:50 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[20-Nov-2024 12:45:50 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[21-Nov-2024 08:22:22 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[21-Nov-2024 08:22:22 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[21-Nov-2024 08:22:22 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[21-Nov-2024 08:22:22 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[21-Nov-2024 08:22:22 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[21-Nov-2024 08:22:22 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[21-Nov-2024 08:22:22 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[21-Nov-2024 08:22:22 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[21-Nov-2024 08:22:22 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 12
+[21-Nov-2024 08:22:22 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `id_per`ASC' at line 6 in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php:14
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php(14): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(33): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 14
+[21-Nov-2024 15:00:07 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[21-Nov-2024 15:00:07 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[21-Nov-2024 15:00:07 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[21-Nov-2024 15:00:07 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[21-Nov-2024 15:00:07 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[21-Nov-2024 15:00:07 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[21-Nov-2024 15:00:07 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[21-Nov-2024 15:00:07 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[21-Nov-2024 15:00:07 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 12
+[21-Nov-2024 15:00:07 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `id_per`ASC' at line 6 in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php:14
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php(14): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(33): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 14
+[22-Nov-2024 10:56:21 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[22-Nov-2024 10:56:21 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[22-Nov-2024 10:56:21 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[22-Nov-2024 10:56:21 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 27
+[22-Nov-2024 10:56:21 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[22-Nov-2024 10:56:21 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[22-Nov-2024 10:56:21 America/Bogota] PHP Warning:  Undefined array key "lid" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[22-Nov-2024 10:56:21 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/content.php on line 34
+[22-Nov-2024 10:56:21 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 12
+[22-Nov-2024 10:56:21 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `id_per`ASC' at line 6 in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php:14
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php(14): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(33): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 14
+[22-Nov-2024 10:57:54 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Nov-2024 10:57:54 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Nov-2024 11:39:26 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Nov-2024 11:39:26 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Nov-2024 11:40:18 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Nov-2024 11:40:18 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Nov-2024 11:44:32 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Nov-2024 11:44:32 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Nov-2024 11:53:05 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Nov-2024 11:53:05 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Nov-2024 14:44:21 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Nov-2024 14:44:21 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Nov-2024 17:03:33 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Nov-2024 17:03:33 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Nov-2024 17:04:08 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[22-Nov-2024 17:04:08 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[24-Nov-2024 19:51:25 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[24-Nov-2024 19:51:25 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[24-Nov-2024 19:51:25 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[25-Nov-2024 08:30:18 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[25-Nov-2024 08:30:18 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[25-Nov-2024 08:30:18 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[25-Nov-2024 14:46:23 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[25-Nov-2024 14:46:23 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[25-Nov-2024 15:05:53 America/Bogota] PHP Warning:  unlink(../../documentos/permisos/): Is a directory in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 386
+[25-Nov-2024 16:56:52 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[25-Nov-2024 16:56:52 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[25-Nov-2024 16:56:52 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[25-Nov-2024 16:57:35 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[25-Nov-2024 16:57:35 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[26-Nov-2024 18:27:58 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[26-Nov-2024 18:27:58 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[26-Nov-2024 22:27:57 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[26-Nov-2024 22:27:57 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[26-Nov-2024 22:27:57 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[27-Nov-2024 06:59:16 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[27-Nov-2024 06:59:16 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[27-Nov-2024 19:36:28 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[27-Nov-2024 19:36:28 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[27-Nov-2024 19:36:28 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[27-Nov-2024 21:31:34 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[27-Nov-2024 21:31:34 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[27-Nov-2024 21:31:34 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[27-Nov-2024 23:03:04 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[27-Nov-2024 23:03:04 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[27-Nov-2024 23:03:04 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[28-Nov-2024 08:07:11 America/Bogota] PHP Warning:  unlink(../../documentos/permisos/): Is a directory in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 386
+[28-Nov-2024 10:17:34 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[28-Nov-2024 10:17:34 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[28-Nov-2024 10:17:34 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[28-Nov-2024 10:36:45 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[28-Nov-2024 10:36:45 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[28-Nov-2024 11:04:36 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 291
+[28-Nov-2024 11:04:36 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 292
+[28-Nov-2024 11:04:36 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 327
+[28-Nov-2024 11:04:36 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 330
+[28-Nov-2024 11:04:36 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 346
+[28-Nov-2024 11:04:36 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 349
+[28-Nov-2024 11:04:44 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 12
+[28-Nov-2024 11:04:44 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `id_per`ASC' at line 6 in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php:14
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php(14): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 14
+[28-Nov-2024 11:04:47 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[28-Nov-2024 11:04:47 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[28-Nov-2024 11:04:47 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[28-Nov-2024 11:09:06 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[28-Nov-2024 11:09:06 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[02-Dec-2024 00:10:29 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[02-Dec-2024 00:10:29 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[02-Dec-2024 00:10:29 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[02-Dec-2024 00:14:14 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[02-Dec-2024 00:14:14 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[02-Dec-2024 13:00:26 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[02-Dec-2024 13:00:26 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[02-Dec-2024 14:42:06 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[02-Dec-2024 14:42:06 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[02-Dec-2024 14:42:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[02-Dec-2024 14:49:31 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[02-Dec-2024 14:49:31 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[02-Dec-2024 15:15:37 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[02-Dec-2024 15:15:37 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[02-Dec-2024 15:15:37 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[02-Dec-2024 15:35:44 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[02-Dec-2024 15:35:44 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[02-Dec-2024 15:35:44 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[02-Dec-2024 16:48:16 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[02-Dec-2024 16:48:16 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[02-Dec-2024 17:01:13 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[02-Dec-2024 17:01:13 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[03-Dec-2024 07:01:29 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[03-Dec-2024 07:01:29 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[03-Dec-2024 07:01:29 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[03-Dec-2024 14:39:33 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[03-Dec-2024 14:39:33 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[03-Dec-2024 16:27:18 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[03-Dec-2024 16:27:18 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[03-Dec-2024 16:27:18 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[03-Dec-2024 16:28:01 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[03-Dec-2024 16:28:01 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[03-Dec-2024 16:31:08 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[03-Dec-2024 16:31:08 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[04-Dec-2024 13:17:23 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[04-Dec-2024 13:17:23 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[05-Dec-2024 10:46:06 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[05-Dec-2024 10:46:06 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[05-Dec-2024 10:46:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[05-Dec-2024 17:14:58 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[05-Dec-2024 17:14:58 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[05-Dec-2024 17:14:58 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[06-Dec-2024 07:47:18 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[06-Dec-2024 07:47:18 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[06-Dec-2024 13:10:38 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[06-Dec-2024 13:10:38 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[06-Dec-2024 13:10:38 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[06-Dec-2024 13:10:38 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[06-Dec-2024 13:10:38 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[06-Dec-2024 13:10:38 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[09-Dec-2024 12:19:21 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[09-Dec-2024 12:19:21 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[09-Dec-2024 12:19:21 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[09-Dec-2024 12:20:59 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[09-Dec-2024 12:20:59 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[09-Dec-2024 13:53:57 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[09-Dec-2024 13:53:57 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[09-Dec-2024 19:45:46 America/Bogota] PHP Warning:  unlink(../../documentos/permisos/): Is a directory in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 386
+[09-Dec-2024 19:46:51 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[09-Dec-2024 19:46:51 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[10-Dec-2024 16:06:32 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[10-Dec-2024 16:06:32 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[10-Dec-2024 16:06:32 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[10-Dec-2024 16:08:23 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[10-Dec-2024 16:08:23 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[11-Dec-2024 10:28:15 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[11-Dec-2024 10:28:15 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[11-Dec-2024 10:28:15 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[11-Dec-2024 11:13:53 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 291
+[11-Dec-2024 11:13:53 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 292
+[11-Dec-2024 11:13:53 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 327
+[11-Dec-2024 11:13:53 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 330
+[11-Dec-2024 11:13:53 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 346
+[11-Dec-2024 11:13:53 America/Bogota] PHP Warning:  Undefined array key "are" in /home/masterqu/subdominios/INTRANET/application/permisos/permisos.controller.php on line 349
+[11-Dec-2024 11:14:00 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 12
+[11-Dec-2024 11:14:00 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY `id_per`ASC' at line 6 in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php:14
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php(14): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/permisos/tabla.php on line 14
+[11-Dec-2024 11:14:06 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[11-Dec-2024 11:14:06 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[11-Dec-2024 11:14:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[11-Dec-2024 11:15:43 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[11-Dec-2024 11:15:43 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[11-Dec-2024 14:29:33 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[11-Dec-2024 14:29:33 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[11-Dec-2024 14:29:33 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[11-Dec-2024 15:36:03 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[11-Dec-2024 15:36:03 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[12-Dec-2024 06:30:19 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[12-Dec-2024 06:30:19 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[12-Dec-2024 06:30:19 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[12-Dec-2024 14:55:14 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[12-Dec-2024 14:55:14 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[13-Dec-2024 08:30:25 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[13-Dec-2024 08:30:25 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[13-Dec-2024 10:28:36 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[13-Dec-2024 10:28:36 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[13-Dec-2024 10:28:36 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[13-Dec-2024 10:53:56 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[13-Dec-2024 10:53:56 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[13-Dec-2024 10:53:56 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[13-Dec-2024 12:29:36 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[13-Dec-2024 12:29:36 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[13-Dec-2024 13:38:45 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[13-Dec-2024 13:38:45 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[13-Dec-2024 13:38:45 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[13-Dec-2024 15:04:21 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[13-Dec-2024 15:04:21 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[13-Dec-2024 15:04:21 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[15-Dec-2024 21:44:40 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[15-Dec-2024 21:44:40 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[15-Dec-2024 21:44:40 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[16-Dec-2024 06:36:26 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[16-Dec-2024 06:36:26 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[16-Dec-2024 06:36:26 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[16-Dec-2024 07:10:52 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[16-Dec-2024 07:10:52 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[16-Dec-2024 08:38:51 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[16-Dec-2024 08:38:51 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[16-Dec-2024 16:38:36 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[16-Dec-2024 16:38:36 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[16-Dec-2024 16:38:36 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[16-Dec-2024 16:41:10 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[16-Dec-2024 16:41:10 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[16-Dec-2024 16:42:22 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[16-Dec-2024 16:42:22 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[17-Dec-2024 09:05:59 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[17-Dec-2024 09:05:59 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[17-Dec-2024 10:45:25 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[17-Dec-2024 10:45:25 America/Bogota] PHP Warning:  Undefined array key "expires_in" in /home/masterqu/subdominios/INTRANET/pruebas/vendor/google/apiclient/src/Google/Client.php on line 470
+[17-Dec-2024 12:42:33 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[17-Dec-2024 12:42:33 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[17-Dec-2024 12:42:33 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[17-Dec-2024 13:57:57 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[17-Dec-2024 13:57:57 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[17-Dec-2024 13:57:57 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[18-Dec-2024 08:11:23 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[18-Dec-2024 08:11:23 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[18-Dec-2024 08:11:23 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/permisos/index.php(26): require('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20

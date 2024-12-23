@@ -1,0 +1,20 @@
+[23-Sep-2024 13:11:21 America/Bogota] PHP Fatal error:  Uncaught Error: Undefined constant "RUTA_URL" in /home/masterqu/subdominios/INTRANET/application/menu/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/menu/index.php on line 29
+[23-Sep-2024 13:11:27 America/Bogota] PHP Fatal error:  Uncaught Error: Undefined constant "RUTA_URL" in /home/masterqu/subdominios/INTRANET/application/menu/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/menu/index.php on line 29
+[23-Sep-2024 13:12:29 America/Bogota] PHP Fatal error:  Uncaught Error: Undefined constant "RUTA_URL" in /home/masterqu/subdominios/INTRANET/application/menu/index.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/menu/index.php on line 57
+[23-Sep-2024 14:24:27 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[23-Sep-2024 14:24:27 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[23-Sep-2024 14:24:27 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/menu/index.php(53): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41

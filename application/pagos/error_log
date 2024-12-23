@@ -1,0 +1,106 @@
+[02-May-2024 08:44:56 America/Bogota] PHP Warning:  Undefined array key "edit" in /home/masterqu/subdominios/INTRANET/application/pagos/form6.php on line 38
+[02-May-2024 09:01:32 America/Bogota] PHP Warning:  Undefined array key "edit" in /home/masterqu/subdominios/INTRANET/application/pagos/form6.php on line 39
+[02-May-2024 09:17:41 America/Bogota] PHP Warning:  Undefined array key "edit" in /home/masterqu/subdominios/INTRANET/application/pagos/form6.php on line 38
+[02-May-2024 09:44:45 America/Bogota] PHP Warning:  include(../../../resources/template/credentials.php): Failed to open stream: No such file or directory in /home/masterqu/subdominios/INTRANET/application/pagos/tabla3.php on line 2
+[02-May-2024 09:44:45 America/Bogota] PHP Warning:  include(): Failed opening '../../../resources/template/credentials.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/masterqu/subdominios/INTRANET/application/pagos/tabla3.php on line 2
+[02-May-2024 09:44:47 America/Bogota] PHP Warning:  Undefined array key "edit" in /home/masterqu/subdominios/INTRANET/application/pagos/form7.php on line 35
+[02-May-2024 09:45:05 America/Bogota] PHP Warning:  include(../../../resources/template/credentials.php): Failed to open stream: No such file or directory in /home/masterqu/subdominios/INTRANET/application/pagos/tabla3.php on line 2
+[02-May-2024 09:45:05 America/Bogota] PHP Warning:  include(): Failed opening '../../../resources/template/credentials.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/masterqu/subdominios/INTRANET/application/pagos/tabla3.php on line 2
+[02-May-2024 09:45:05 America/Bogota] PHP Warning:  Undefined variable $sesion_are in /home/masterqu/subdominios/INTRANET/application/pagos/tabla3.php on line 4
+[02-May-2024 09:45:31 America/Bogota] PHP Warning:  include(../../../resources/template/credentials.php): Failed to open stream: No such file or directory in /home/masterqu/subdominios/INTRANET/application/pagos/tabla3.php on line 2
+[02-May-2024 09:45:31 America/Bogota] PHP Warning:  include(): Failed opening '../../../resources/template/credentials.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/masterqu/subdominios/INTRANET/application/pagos/tabla3.php on line 2
+[02-May-2024 09:45:31 America/Bogota] PHP Warning:  Undefined variable $sesion_are in /home/masterqu/subdominios/INTRANET/application/pagos/tabla3.php on line 4
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 20
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 20
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 20
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 20
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 24
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 24
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 24
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 24
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 28
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 28
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 28
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 28
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 32
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 32
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 32
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 32
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 38
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 38
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 38
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 38
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 42
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 42
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 42
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 42
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 46
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 46
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 46
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 46
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 50
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 50
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 50
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 50
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 56
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 56
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 56
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 56
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 60
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 60
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 60
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 60
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 64
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 64
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 64
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 64
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 68
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 68
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag3 in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 68
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form3.php on line 68
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag4 in /home/masterqu/subdominios/INTRANET/application/pagos/form4.php on line 20
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form4.php on line 20
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag4 in /home/masterqu/subdominios/INTRANET/application/pagos/form4.php on line 21
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form4.php on line 21
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag4 in /home/masterqu/subdominios/INTRANET/application/pagos/form4.php on line 27
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form4.php on line 27
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Undefined variable $fech_pag4 in /home/masterqu/subdominios/INTRANET/application/pagos/form4.php on line 28
+[02-May-2024 09:45:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/pagos/form4.php on line 28
+[02-May-2024 09:46:04 America/Bogota] PHP Warning:  include(../../../resources/template/credentials.php): Failed to open stream: No such file or directory in /home/masterqu/subdominios/INTRANET/application/pagos/tabla3.php on line 2
+[02-May-2024 09:46:04 America/Bogota] PHP Warning:  include(): Failed opening '../../../resources/template/credentials.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/masterqu/subdominios/INTRANET/application/pagos/tabla3.php on line 2
+[02-May-2024 09:46:08 America/Bogota] PHP Warning:  Undefined array key "edit" in /home/masterqu/subdominios/INTRANET/application/pagos/form7.php on line 35
+[03-May-2024 08:25:22 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[03-May-2024 08:25:22 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[03-May-2024 08:25:22 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:21
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(21): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/pagos/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 21
+[03-May-2024 09:08:02 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[03-May-2024 09:08:02 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[03-May-2024 09:08:02 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:21
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(21): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/pagos/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 21
+[03-May-2024 10:17:36 America/Bogota] PHP Warning:  include(../../../resources/template/credentials.php): Failed to open stream: No such file or directory in /home/masterqu/subdominios/INTRANET/application/pagos/tabla3.php on line 2
+[03-May-2024 10:17:36 America/Bogota] PHP Warning:  include(): Failed opening '../../../resources/template/credentials.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/masterqu/subdominios/INTRANET/application/pagos/tabla3.php on line 2
+[03-May-2024 15:01:23 America/Bogota] PHP Warning:  include(../../../resources/template/credentials.php): Failed to open stream: No such file or directory in /home/masterqu/subdominios/INTRANET/application/pagos/tabla3.php on line 2
+[03-May-2024 15:01:23 America/Bogota] PHP Warning:  include(): Failed opening '../../../resources/template/credentials.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/masterqu/subdominios/INTRANET/application/pagos/tabla3.php on line 2
+[26-Jun-2024 12:37:55 America/Bogota] PHP Warning:  Undefined array key "edit" in /home/masterqu/subdominios/INTRANET/application/pagos/form6.php on line 38
+[27-Jun-2024 15:09:13 America/Bogota] PHP Warning:  Undefined array key "edit" in /home/masterqu/subdominios/INTRANET/application/pagos/form6.php on line 38
+[05-Aug-2024 07:11:05 America/Bogota] PHP Warning:  Undefined array key "edit" in /home/masterqu/subdominios/INTRANET/application/pagos/form6.php on line 38
+[04-Dec-2024 07:25:41 America/Bogota] PHP Warning:  Undefined array key "edit" in /home/masterqu/subdominios/INTRANET/application/pagos/form6.php on line 38
+[04-Dec-2024 07:26:06 America/Bogota] PHP Warning:  Undefined array key "edit" in /home/masterqu/subdominios/INTRANET/application/pagos/form6.php on line 38
+[04-Dec-2024 07:28:44 America/Bogota] PHP Warning:  Undefined array key "edit" in /home/masterqu/subdominios/INTRANET/application/pagos/form6.php on line 38
+[04-Dec-2024 07:41:45 America/Bogota] PHP Warning:  Undefined array key "edit" in /home/masterqu/subdominios/INTRANET/application/pagos/form6.php on line 38
+[04-Dec-2024 11:10:51 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[04-Dec-2024 11:10:51 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[04-Dec-2024 11:10:51 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/pagos/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20

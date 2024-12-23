@@ -1,0 +1,67 @@
+html,
+body {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f5f5f5;
+}
+
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.form-signin .checkbox {
+    font-weight: 400;
+}
+.caja{
+    background-color: rgba(128, 128, 128, 0.5);
+    width: 410px;
+    height: 410px;
+    border-radius: 10px;
+    
+}
+.contenedorpass{
+    display: inline-flex;
+    border: 2px solid #e8f0fe;
+    border-radius: 10px;
+    background-color: #e8f0fe;
+
+}
+.eye{
+    float: right;
+}
+.eye:hover{
+        padding: 5px;
+        background-color: rgb(237, 100, 100);
+        transition: all 6px linear;
+        border-radius: 10px;
+}
+.fondo-login {
+    background-image: url('../../img/fondo-login.webp');
+    background-size: 180%;
+}
+
+@media (max-width: 540px) {
+    .fondo-login {
+        background-size: 350%;
+    }
+}

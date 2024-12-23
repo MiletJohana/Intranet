@@ -1,0 +1,86 @@
+[27-Nov-2024 09:02:34 America/Bogota] PHP Warning:  Undefined array key "are_vis" in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[27-Nov-2024 09:02:34 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_are' cannot be null in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php:52
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[27-Nov-2024 09:02:42 America/Bogota] PHP Warning:  Undefined array key "are_vis" in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[27-Nov-2024 09:02:42 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_are' cannot be null in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php:52
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[27-Nov-2024 15:39:59 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[27-Nov-2024 15:39:59 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[27-Nov-2024 15:39:59 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/visitas/index.php(47): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[28-Nov-2024 07:13:21 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[28-Nov-2024 07:13:21 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[28-Nov-2024 07:13:21 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/visitas/index.php(47): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[28-Nov-2024 13:58:33 America/Bogota] PHP Warning:  Undefined variable $sesion_id in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[28-Nov-2024 13:58:33 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usu' cannot be null in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php:52
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[28-Nov-2024 13:58:42 America/Bogota] PHP Warning:  Undefined variable $sesion_id in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[28-Nov-2024 13:58:42 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usu' cannot be null in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php:52
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[28-Nov-2024 13:59:11 America/Bogota] PHP Warning:  Undefined variable $sesion_id in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[28-Nov-2024 13:59:11 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usu' cannot be null in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php:52
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[28-Nov-2024 13:59:22 America/Bogota] PHP Warning:  Undefined variable $sesion_id in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[28-Nov-2024 13:59:22 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usu' cannot be null in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php:52
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[28-Nov-2024 13:59:26 America/Bogota] PHP Warning:  Undefined variable $sesion_id in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[28-Nov-2024 13:59:26 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usu' cannot be null in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php:52
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[28-Nov-2024 14:04:55 America/Bogota] PHP Warning:  Undefined variable $sesion_id in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[28-Nov-2024 14:04:55 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usu' cannot be null in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php:52
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[28-Nov-2024 14:05:07 America/Bogota] PHP Warning:  Undefined variable $sesion_id in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[28-Nov-2024 14:05:07 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_usu' cannot be null in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php:52
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php(52): PDOStatement->execute()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/visitas/visitas.controller.php on line 52
+[28-Nov-2024 15:30:01 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[28-Nov-2024 15:30:01 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[28-Nov-2024 15:30:01 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/visitas/index.php(47): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[02-Dec-2024 14:26:19 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[02-Dec-2024 14:26:19 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[02-Dec-2024 14:26:19 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/visitas/index.php(47): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20

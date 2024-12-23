@@ -1,0 +1,39 @@
+[27-Apr-2024 17:01:05 America/Bogota] PHP Warning:  Undefined variable $id in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php on line 11
+[27-Apr-2024 17:01:05 America/Bogota] PHP Warning:  Undefined variable $id in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php on line 13
+[27-Apr-2024 17:01:10 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method PhpOffice\PhpSpreadsheet\Worksheet\Worksheet::setSharedStyle() in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php:234
+Stack trace:
+#0 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php on line 234
+[27-Apr-2024 17:02:20 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method PhpOffice\PhpSpreadsheet\Worksheet\Worksheet::setSharedStyle() in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php:234
+Stack trace:
+#0 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php on line 234
+[27-Apr-2024 17:03:29 America/Bogota] PHP Fatal error:  Uncaught Error: Class "PHPExcel_Worksheet" not found in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php:347
+Stack trace:
+#0 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php on line 347
+[27-Apr-2024 17:06:55 America/Bogota] PHP Warning:  Undefined variable $spreadsheet in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php on line 347
+[27-Apr-2024 17:06:55 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function createSheet() on null in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php:347
+Stack trace:
+#0 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php on line 347
+[27-Apr-2024 17:12:55 America/Bogota] PHP Fatal error:  Uncaught TypeError: PhpOffice\PhpSpreadsheet\IOFactory::createWriter(): Argument #1 ($spreadsheet) must be of type PhpOffice\PhpSpreadsheet\Spreadsheet, PhpOffice\PhpSpreadsheet\Worksheet\Worksheet given, called in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php on line 358 and defined in /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php:60
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php(358): PhpOffice\PhpSpreadsheet\IOFactory::createWriter()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php on line 60
+[27-Apr-2024 17:13:02 America/Bogota] PHP Fatal error:  Uncaught TypeError: PhpOffice\PhpSpreadsheet\IOFactory::createWriter(): Argument #1 ($spreadsheet) must be of type PhpOffice\PhpSpreadsheet\Spreadsheet, PhpOffice\PhpSpreadsheet\Worksheet\Worksheet given, called in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php on line 358 and defined in /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php:60
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php(358): PhpOffice\PhpSpreadsheet\IOFactory::createWriter()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php on line 60
+[27-Apr-2024 17:13:18 America/Bogota] PHP Fatal error:  Uncaught TypeError: PhpOffice\PhpSpreadsheet\IOFactory::createWriter(): Argument #1 ($spreadsheet) must be of type PhpOffice\PhpSpreadsheet\Spreadsheet, PhpOffice\PhpSpreadsheet\Worksheet\Worksheet given, called in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php on line 358 and defined in /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php:60
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php(358): PhpOffice\PhpSpreadsheet\IOFactory::createWriter()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php on line 60
+[27-Apr-2024 17:13:30 America/Bogota] PHP Fatal error:  Uncaught Error: Class "PHPExcel_Worksheet" not found in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php:347
+Stack trace:
+#0 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorv3/reportes/reporteAnual.php on line 347
+[29-Apr-2024 08:12:42 America/Bogota] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.33. in /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/vendor/composer/platform_check.php on line 28

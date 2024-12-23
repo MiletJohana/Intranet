@@ -1,0 +1,32 @@
+[22-Jan-2024 11:35:31 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/subdominios/INTRANET/resources/template/head.php on line 20
+[22-Jan-2024 11:35:31 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[22-Jan-2024 11:35:31 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY p.padre' at line 4 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:10
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(10): PDO->query('SELECT p.padre ...')
+#1 /home/masterqu/subdominios/INTRANET/application/estadisticas/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 10
+[22-Jan-2024 16:44:02 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/subdominios/INTRANET/resources/template/head.php on line 20
+[22-Jan-2024 16:44:02 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[22-Jan-2024 16:44:02 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY p.padre' at line 4 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:10
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(10): PDO->query('SELECT p.padre ...')
+#1 /home/masterqu/subdominios/INTRANET/application/estadisticas/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 10
+[25-Jan-2024 14:14:06 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/subdominios/INTRANET/resources/template/head.php on line 20
+[25-Jan-2024 14:14:06 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[25-Jan-2024 14:14:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY p.padre' at line 4 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:10
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(10): PDO->query('SELECT p.padre ...')
+#1 /home/masterqu/subdominios/INTRANET/application/estadisticas/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 10
+[27-Mar-2024 11:36:14 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/subdominios/INTRANET/resources/template/head.php on line 20
+[27-Mar-2024 11:36:14 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[27-Mar-2024 11:36:14 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY p.padre' at line 4 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:10
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(10): PDO->query('SELECT p.padre ...')
+#1 /home/masterqu/subdominios/INTRANET/application/estadisticas/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 10

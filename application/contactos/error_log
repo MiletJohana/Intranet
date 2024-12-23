@@ -1,0 +1,616 @@
+[11-Sep-2023 14:16:25 America/Bogota] PHP Notice:  Undefined index: cont_desh in /home/masterqu/public_html/subdominios/intranet/application/contactos/contactos.controller.php on line 81
+[12-Sep-2023 10:14:31 America/Bogota] PHP Notice:  Undefined index: cont_desh in /home/masterqu/public_html/subdominios/intranet/application/contactos/contactos.controller.php on line 81
+[14-Sep-2023 14:07:48 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/public_html/subdominios/intranet/application/contactos/form.php on line 24
+[14-Sep-2023 14:07:48 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/public_html/subdominios/intranet/application/contactos/form.php on line 24
+[14-Sep-2023 14:10:26 America/Bogota] PHP Notice:  Undefined index: cont_desh0 in /home/masterqu/public_html/subdominios/intranet/application/contactos/contactos.controller.php on line 60
+[14-Sep-2023 14:10:26 America/Bogota] PHP Notice:  Undefined index: cont_desh1 in /home/masterqu/public_html/subdominios/intranet/application/contactos/contactos.controller.php on line 60
+[14-Sep-2023 14:10:26 America/Bogota] PHP Notice:  Undefined index: cont_desh2 in /home/masterqu/public_html/subdominios/intranet/application/contactos/contactos.controller.php on line 60
+[10-Oct-2023 15:46:31 America/Bogota] PHP Notice:  Undefined index: cont_desh in /home/masterqu/public_html/subdominios/intranet/application/contactos/contactos.controller.php on line 81
+[12-Oct-2023 10:03:30 America/Bogota] PHP Notice:  Undefined index: cont_desh in /home/masterqu/public_html/subdominios/intranet/application/contactos/contactos.controller.php on line 81
+[24-Oct-2023 11:26:23 America/Bogota] PHP Notice:  Undefined index: cont_desh in /home/masterqu/public_html/subdominios/intranet/application/contactos/contactos.controller.php on line 81
+[27-Oct-2023 07:44:20 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Oct-2023 16:24:35 America/Bogota] PHP Notice:  Undefined index: cont_desh in /home/masterqu/public_html/subdominios/intranet/application/contactos/contactos.controller.php on line 81
+[27-Oct-2023 16:24:38 America/Bogota] PHP Notice:  Undefined index: cont_desh in /home/masterqu/public_html/subdominios/intranet/application/contactos/contactos.controller.php on line 81
+[27-Oct-2023 16:24:39 America/Bogota] PHP Notice:  Undefined index: cont_desh in /home/masterqu/public_html/subdominios/intranet/application/contactos/contactos.controller.php on line 81
+[27-Oct-2023 16:24:42 America/Bogota] PHP Notice:  Undefined index: cont_desh in /home/masterqu/public_html/subdominios/intranet/application/contactos/contactos.controller.php on line 81
+[27-Oct-2023 16:24:45 America/Bogota] PHP Notice:  Undefined index: cont_desh in /home/masterqu/public_html/subdominios/intranet/application/contactos/contactos.controller.php on line 81
+[23-Jan-2024 12:35:28 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:35:28 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:35:28 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:35:28 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:35:28 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:35:30 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:35:30 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:39:04 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:39:04 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:39:04 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:39:04 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:39:04 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:40:29 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:40:29 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:40:29 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:40:29 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:40:29 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:40:31 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:40:31 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:41:17 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:41:17 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:41:30 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:41:30 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:42:37 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:42:37 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:42:37 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:42:37 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:42:37 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:45:30 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:45:30 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:45:30 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:45:30 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:45:30 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:45:48 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:45:48 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:45:48 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:45:48 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:45:48 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:47:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:47:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:47:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:47:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:47:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:49:05 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:49:05 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:49:05 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:49:05 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:49:05 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:49:38 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:49:38 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:51:43 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:51:43 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:51:43 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:51:43 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:51:43 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:51:46 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:51:46 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:53:05 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:53:05 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:53:05 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:53:05 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:53:05 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:53:07 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 38
+[23-Jan-2024 12:53:07 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 38
+[23-Jan-2024 12:53:43 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:53:43 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:53:43 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:53:43 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:53:43 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:53:49 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:53:49 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:55:07 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:55:07 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:55:07 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:55:07 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:55:07 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:55:09 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:55:09 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:55:09 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:55:09 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:55:09 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:55:11 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:55:11 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:55:30 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:55:30 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:55:30 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:55:30 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:55:30 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:55:32 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:55:32 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:56:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:56:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:56:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:56:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:56:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:56:39 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:56:39 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:58:20 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:58:20 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:58:20 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:58:20 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:58:20 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:58:21 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:58:21 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:58:28 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:58:28 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:58:28 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:58:28 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:58:28 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:58:30 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:58:30 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:59:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[23-Jan-2024 12:59:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[23-Jan-2024 12:59:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[23-Jan-2024 12:59:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[23-Jan-2024 12:59:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[23-Jan-2024 12:59:45 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 12:59:45 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 13:01:21 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 13:01:21 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[23-Jan-2024 14:17:09 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/subdominios/INTRANET/resources/template/head.php on line 20
+[23-Jan-2024 14:17:09 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[23-Jan-2024 14:17:09 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY p.padre' at line 4 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:10
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(10): PDO->query('SELECT p.padre ...')
+#1 /home/masterqu/subdominios/INTRANET/application/contactos/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 10
+[06-Feb-2024 12:27:47 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[06-Feb-2024 12:27:47 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[06-Feb-2024 12:27:49 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[06-Feb-2024 12:27:49 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[06-Feb-2024 12:27:49 America/Bogota] PHP Notice:  Undefined offset: 0 in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 69
+[06-Feb-2024 14:24:34 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[06-Feb-2024 14:24:34 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[06-Feb-2024 15:38:00 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[06-Feb-2024 15:38:00 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[06-Feb-2024 15:40:18 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[06-Feb-2024 15:40:18 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[06-Feb-2024 15:40:56 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[06-Feb-2024 15:40:56 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[06-Feb-2024 16:15:40 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:15:40 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:15:40 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:15:40 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:15:40 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:15:42 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[06-Feb-2024 16:15:42 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 24
+[06-Feb-2024 16:18:40 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:18:40 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:18:40 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:18:40 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:18:40 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:21:06 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:21:06 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:21:06 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:21:06 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:21:06 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:21:08 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:21:08 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:21:08 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:21:08 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:21:08 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:21:09 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:21:09 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:21:17 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:21:17 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:21:17 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:21:17 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:21:17 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:21:19 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:21:19 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:21:27 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:21:27 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:21:27 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:21:27 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:21:27 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:21:28 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:21:28 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:21:57 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:21:57 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:21:57 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:21:57 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:21:57 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:21:58 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:21:58 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:22:40 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:22:40 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:22:40 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:22:40 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:22:40 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:22:42 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:22:42 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:23:24 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:23:24 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:23:24 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:23:24 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:23:24 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:23:26 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:23:26 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:23:44 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:23:44 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:23:44 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:23:44 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:23:44 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:23:46 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:23:46 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:25:31 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:25:31 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:25:31 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:25:31 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:25:31 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:25:33 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:25:33 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:25:39 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:25:39 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:25:39 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:25:39 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:25:39 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:25:41 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:25:41 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:25:59 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:25:59 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:25:59 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:25:59 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:25:59 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:26:00 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:26:00 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:26:15 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:26:15 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:26:15 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:26:15 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:26:15 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:26:27 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:26:27 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:27:42 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:27:42 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:27:42 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:27:42 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:27:42 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:27:44 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:27:44 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:28:12 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:28:12 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:28:12 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:28:12 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:28:12 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:28:13 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:28:13 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:28:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:28:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:28:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:28:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:28:38 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:28:40 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:28:40 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:29:23 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:29:23 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:29:23 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:29:23 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:29:23 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:29:24 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:29:24 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:29:46 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:29:46 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:29:46 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:29:46 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:29:46 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:29:48 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:29:48 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:30:00 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:30:00 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:30:00 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:30:00 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:30:00 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:30:02 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:30:02 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:30:22 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:30:22 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:30:22 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:30:22 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:30:22 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:30:23 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:30:23 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:30:43 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 20
+[06-Feb-2024 16:30:43 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 24
+[06-Feb-2024 16:30:43 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/content.php on line 30
+[06-Feb-2024 16:30:43 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 30
+[06-Feb-2024 16:30:43 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/contactos/index.php on line 32
+[06-Feb-2024 16:30:44 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:30:44 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:31:20 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:31:20 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:31:39 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Feb-2024 16:31:39 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Feb-2024 10:31:14 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Feb-2024 10:31:14 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Feb-2024 10:32:33 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Feb-2024 10:32:33 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[22-Feb-2024 15:57:09 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[22-Feb-2024 15:57:09 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 07:29:23 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 07:29:23 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 07:32:12 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 07:32:12 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 07:34:47 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 07:34:47 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 07:40:51 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 07:40:51 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 07:41:22 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 07:41:22 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 07:45:05 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 07:45:05 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 07:46:44 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 07:46:44 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 08:01:13 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 08:01:13 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 08:01:44 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 08:01:44 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 08:51:59 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 08:51:59 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 09:58:09 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 09:58:09 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 09:58:23 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 09:58:23 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 10:21:53 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 10:21:53 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 10:24:41 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 10:24:41 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 11:04:07 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 11:04:07 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 11:05:31 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[26-Feb-2024 11:05:31 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[28-Feb-2024 14:24:49 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[28-Feb-2024 14:24:49 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[29-Feb-2024 11:23:26 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[29-Feb-2024 11:23:26 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[29-Feb-2024 11:24:04 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[29-Feb-2024 11:24:04 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[29-Feb-2024 15:25:32 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[29-Feb-2024 15:25:32 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Mar-2024 08:04:39 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Mar-2024 08:04:39 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Mar-2024 17:08:22 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[06-Mar-2024 17:08:22 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[07-Mar-2024 12:40:11 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[07-Mar-2024 12:40:11 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[07-Mar-2024 14:29:19 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[07-Mar-2024 14:29:19 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[07-Mar-2024 14:47:03 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[07-Mar-2024 14:47:03 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[19-Mar-2024 14:40:08 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[19-Mar-2024 14:40:08 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[19-Mar-2024 14:46:01 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[19-Mar-2024 14:46:01 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[19-Mar-2024 14:48:11 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[19-Mar-2024 14:48:11 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[19-Mar-2024 14:54:53 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[19-Mar-2024 14:54:53 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[19-Mar-2024 14:56:39 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[19-Mar-2024 14:56:39 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[20-Mar-2024 07:43:56 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[20-Mar-2024 07:43:56 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[20-Mar-2024 09:53:44 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[20-Mar-2024 09:53:44 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[20-Mar-2024 13:15:28 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[20-Mar-2024 13:15:28 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[20-Mar-2024 13:15:38 America/Bogota] PHP Notice:  Undefined index: cont_desh0 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 60
+[20-Mar-2024 13:15:38 America/Bogota] PHP Notice:  Undefined index: cont_desh1 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 60
+[20-Mar-2024 15:44:42 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[20-Mar-2024 15:44:42 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[20-Mar-2024 15:47:59 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[20-Mar-2024 15:47:59 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[20-Mar-2024 16:11:30 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[20-Mar-2024 16:11:30 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[20-Mar-2024 16:12:43 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[20-Mar-2024 16:12:43 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:04:32 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:04:32 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:11:17 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:11:17 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:11:28 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:11:28 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:13:19 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:13:19 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:13:22 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:13:22 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:15:59 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:15:59 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:24:42 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:24:42 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:24:53 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:24:53 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:35:41 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:35:41 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:37:01 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:37:01 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:37:07 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:37:07 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:41:09 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:41:09 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:45:18 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:45:18 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:49:59 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:49:59 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:50:14 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:50:14 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:54:58 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:54:58 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:55:07 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[21-Mar-2024 07:55:07 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[22-Mar-2024 13:11:59 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[22-Mar-2024 13:11:59 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[22-Mar-2024 13:12:08 America/Bogota] PHP Notice:  Undefined index: cont_desh0 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 60
+[22-Mar-2024 13:14:22 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[22-Mar-2024 13:14:22 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[22-Mar-2024 13:14:35 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[22-Mar-2024 13:14:35 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[09-Apr-2024 09:35:55 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[09-Apr-2024 09:35:55 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[09-Apr-2024 14:46:02 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[09-Apr-2024 14:46:02 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 20
+[12-Apr-2024 19:47:54 America/Bogota] PHP Notice:  Undefined index: cont_desh in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 81
+[12-Apr-2024 19:48:02 America/Bogota] PHP Notice:  Undefined index: cont_desh in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 81
+[12-Apr-2024 19:51:47 America/Bogota] PHP Notice:  Undefined index: cont_desh in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 81
+[12-Apr-2024 19:52:35 America/Bogota] PHP Notice:  Undefined index: cont_desh in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 81
+[16-Apr-2024 14:43:28 America/Bogota] PHP Notice:  Undefined index: nom_cont0 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 56
+[16-Apr-2024 14:43:28 America/Bogota] PHP Notice:  Undefined index: eml_cont0 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 57
+[16-Apr-2024 14:43:28 America/Bogota] PHP Notice:  Undefined index: car_cont0 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 58
+[16-Apr-2024 14:43:28 America/Bogota] PHP Notice:  Undefined index: tel_cont0 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 59
+[16-Apr-2024 14:43:28 America/Bogota] PHP Notice:  Undefined index: cont_desh0 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 60
+[16-Apr-2024 14:43:28 America/Bogota] PHP Notice:  Undefined index: id_cont0 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 61
+[16-Apr-2024 14:43:28 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php:62
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php(62): PDO->query('UPDATE contacto...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 62
+[17-Apr-2024 16:18:04 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[17-Apr-2024 16:18:04 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[18-Apr-2024 10:09:02 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[18-Apr-2024 10:09:02 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[18-Apr-2024 10:09:19 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[18-Apr-2024 10:09:19 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[18-Apr-2024 10:09:25 America/Bogota] PHP Notice:  Undefined index: cont_desh1 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 60
+[18-Apr-2024 10:09:25 America/Bogota] PHP Notice:  Undefined index: cont_desh2 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 60
+[18-Apr-2024 10:09:32 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[18-Apr-2024 10:09:32 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[18-Apr-2024 11:17:57 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[18-Apr-2024 11:17:57 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[18-Apr-2024 11:17:59 America/Bogota] PHP Notice:  Undefined offset: 0 in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 47
+[18-Apr-2024 11:17:59 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 47
+[18-Apr-2024 11:17:59 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[18-Apr-2024 11:17:59 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[22-Apr-2024 07:36:05 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[22-Apr-2024 07:36:05 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[24-Apr-2024 08:14:23 America/Bogota] PHP Notice:  Undefined variable: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[24-Apr-2024 08:14:23 America/Bogota] PHP Notice:  Undefined index: param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[30-Apr-2024 17:37:52 America/Bogota] PHP Warning:  Undefined variable $param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[30-Apr-2024 17:37:52 America/Bogota] PHP Warning:  Undefined array key "param" in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[08-May-2024 11:33:49 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Estudiante.Compras@freseniusmedicalcare.com'',
+                    ''PASANTE DE ' at line 10 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php:38
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php(38): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 38
+[08-May-2024 11:33:50 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Estudiante.Compras@freseniusmedicalcare.com'',
+                    ''PASANTE DE ' at line 10 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php:38
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php(38): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 38
+[08-May-2024 11:34:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'Estudiante.Compras@freseniusmedicalcare.com'',
+                    'PASANTE DE N' at line 10 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php:38
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php(38): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 38
+[09-May-2024 15:21:04 America/Bogota] PHP Warning:  Undefined array key "nom_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 56
+[09-May-2024 15:21:04 America/Bogota] PHP Warning:  Undefined array key "eml_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 57
+[09-May-2024 15:21:04 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 58
+[09-May-2024 15:21:04 America/Bogota] PHP Warning:  Undefined array key "tel_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 59
+[09-May-2024 15:21:04 America/Bogota] PHP Warning:  Undefined array key "cont_desh0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 60
+[09-May-2024 15:21:04 America/Bogota] PHP Warning:  Undefined array key "id_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 61
+[09-May-2024 15:21:04 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php:62
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php(62): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 62
+[09-May-2024 15:21:09 America/Bogota] PHP Warning:  Undefined array key "nom_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 56
+[09-May-2024 15:21:09 America/Bogota] PHP Warning:  Undefined array key "eml_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 57
+[09-May-2024 15:21:09 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 58
+[09-May-2024 15:21:09 America/Bogota] PHP Warning:  Undefined array key "tel_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 59
+[09-May-2024 15:21:09 America/Bogota] PHP Warning:  Undefined array key "cont_desh0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 60
+[09-May-2024 15:21:09 America/Bogota] PHP Warning:  Undefined array key "id_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 61
+[09-May-2024 15:21:09 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php:62
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php(62): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 62
+[09-May-2024 15:21:18 America/Bogota] PHP Warning:  Undefined array key "nom_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 56
+[09-May-2024 15:21:18 America/Bogota] PHP Warning:  Undefined array key "eml_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 57
+[09-May-2024 15:21:18 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 58
+[09-May-2024 15:21:18 America/Bogota] PHP Warning:  Undefined array key "tel_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 59
+[09-May-2024 15:21:18 America/Bogota] PHP Warning:  Undefined array key "cont_desh0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 60
+[09-May-2024 15:21:18 America/Bogota] PHP Warning:  Undefined array key "id_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 61
+[09-May-2024 15:21:18 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php:62
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php(62): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 62
+[09-May-2024 15:21:20 America/Bogota] PHP Warning:  Undefined array key "nom_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 56
+[09-May-2024 15:21:20 America/Bogota] PHP Warning:  Undefined array key "eml_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 57
+[09-May-2024 15:21:20 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 58
+[09-May-2024 15:21:20 America/Bogota] PHP Warning:  Undefined array key "tel_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 59
+[09-May-2024 15:21:20 America/Bogota] PHP Warning:  Undefined array key "cont_desh0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 60
+[09-May-2024 15:21:20 America/Bogota] PHP Warning:  Undefined array key "id_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 61
+[09-May-2024 15:21:20 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php:62
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php(62): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 62
+[28-May-2024 10:43:34 America/Bogota] PHP Warning:  Undefined variable $param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[28-May-2024 10:43:34 America/Bogota] PHP Warning:  Undefined array key "param" in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[29-May-2024 13:34:58 America/Bogota] PHP Warning:  Undefined array key "nom_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 56
+[29-May-2024 13:34:58 America/Bogota] PHP Warning:  Undefined array key "eml_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 57
+[29-May-2024 13:34:58 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 58
+[29-May-2024 13:34:58 America/Bogota] PHP Warning:  Undefined array key "tel_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 59
+[29-May-2024 13:34:58 America/Bogota] PHP Warning:  Undefined array key "cont_desh0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 60
+[29-May-2024 13:34:58 America/Bogota] PHP Warning:  Undefined array key "id_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 61
+[29-May-2024 13:34:58 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php:62
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php(62): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 62
+[29-May-2024 13:35:00 America/Bogota] PHP Warning:  Undefined array key "nom_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 56
+[29-May-2024 13:35:00 America/Bogota] PHP Warning:  Undefined array key "eml_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 57
+[29-May-2024 13:35:00 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 58
+[29-May-2024 13:35:00 America/Bogota] PHP Warning:  Undefined array key "tel_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 59
+[29-May-2024 13:35:00 America/Bogota] PHP Warning:  Undefined array key "cont_desh0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 60
+[29-May-2024 13:35:00 America/Bogota] PHP Warning:  Undefined array key "id_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 61
+[29-May-2024 13:35:00 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php:62
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php(62): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 62
+[29-May-2024 13:35:14 America/Bogota] PHP Warning:  Undefined array key "nom_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 56
+[29-May-2024 13:35:14 America/Bogota] PHP Warning:  Undefined array key "eml_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 57
+[29-May-2024 13:35:14 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 58
+[29-May-2024 13:35:14 America/Bogota] PHP Warning:  Undefined array key "tel_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 59
+[29-May-2024 13:35:14 America/Bogota] PHP Warning:  Undefined array key "cont_desh0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 60
+[29-May-2024 13:35:14 America/Bogota] PHP Warning:  Undefined array key "id_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 61
+[29-May-2024 13:35:14 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php:62
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php(62): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 62
+[29-May-2024 13:35:18 America/Bogota] PHP Warning:  Undefined array key "nom_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 56
+[29-May-2024 13:35:18 America/Bogota] PHP Warning:  Undefined array key "eml_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 57
+[29-May-2024 13:35:18 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 58
+[29-May-2024 13:35:18 America/Bogota] PHP Warning:  Undefined array key "tel_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 59
+[29-May-2024 13:35:18 America/Bogota] PHP Warning:  Undefined array key "cont_desh0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 60
+[29-May-2024 13:35:18 America/Bogota] PHP Warning:  Undefined array key "id_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 61
+[29-May-2024 13:35:18 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php:62
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php(62): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 62
+[29-May-2024 13:35:20 America/Bogota] PHP Warning:  Undefined array key "nom_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 56
+[29-May-2024 13:35:20 America/Bogota] PHP Warning:  Undefined array key "eml_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 57
+[29-May-2024 13:35:20 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 58
+[29-May-2024 13:35:20 America/Bogota] PHP Warning:  Undefined array key "tel_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 59
+[29-May-2024 13:35:20 America/Bogota] PHP Warning:  Undefined array key "cont_desh0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 60
+[29-May-2024 13:35:20 America/Bogota] PHP Warning:  Undefined array key "id_cont0" in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 61
+[29-May-2024 13:35:20 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 7 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php:62
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php(62): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 62
+[03-Jul-2024 09:11:37 America/Bogota] PHP Warning:  Undefined variable $param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[03-Jul-2024 09:11:37 America/Bogota] PHP Warning:  Undefined array key "param" in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[02-Aug-2024 09:33:46 America/Bogota] PHP Warning:  Undefined variable $param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[02-Aug-2024 09:33:46 America/Bogota] PHP Warning:  Undefined array key "param" in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[16-Oct-2024 08:20:27 America/Bogota] PHP Warning:  Undefined variable $param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[16-Oct-2024 08:20:27 America/Bogota] PHP Warning:  Undefined array key "param" in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[30-Oct-2024 13:44:44 America/Bogota] PHP Warning:  Undefined variable $sesion_id in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 37
+[30-Oct-2024 13:44:44 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 14 in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php:38
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php(38): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/contactos/contactos.controller.php on line 38
+[12-Nov-2024 13:12:25 America/Bogota] PHP Warning:  Undefined variable $param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[12-Nov-2024 13:12:25 America/Bogota] PHP Warning:  Undefined array key "param" in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[12-Nov-2024 13:12:58 America/Bogota] PHP Warning:  Undefined variable $param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[12-Nov-2024 13:12:58 America/Bogota] PHP Warning:  Undefined array key "param" in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[12-Nov-2024 13:13:04 America/Bogota] PHP Warning:  Undefined variable $param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[12-Nov-2024 13:13:04 America/Bogota] PHP Warning:  Undefined array key "param" in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[12-Nov-2024 13:16:00 America/Bogota] PHP Warning:  Undefined variable $param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[12-Nov-2024 13:16:00 America/Bogota] PHP Warning:  Undefined array key "param" in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[12-Nov-2024 13:16:17 America/Bogota] PHP Warning:  Undefined variable $param in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[12-Nov-2024 13:16:17 America/Bogota] PHP Warning:  Undefined array key "param" in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55

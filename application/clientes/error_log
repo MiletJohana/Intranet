@@ -1,0 +1,16 @@
+[12-Dec-2023 14:40:05 America/Bogota] PHP Notice:  Undefined property: PDOStatement::$rowCount() in /home/masterqu/public_html/INTRANET/application/clientes/tabla.php on line 10
+[12-Dec-2023 14:40:08 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch(PDO::FETCH_ASSOC) in /home/masterqu/public_html/INTRANET/application/clientes/form.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/masterqu/public_html/INTRANET/application/clientes/form.php on line 75
+[12-Dec-2023 14:40:17 America/Bogota] PHP Notice:  Undefined property: PDOStatement::$rowCount() in /home/masterqu/public_html/INTRANET/application/clientes/tabla.php on line 10
+[06-Feb-2024 11:38:45 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/clientes/form.php:11
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes/form.php(11): PDO->query('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes/form.php on line 11
+[21-Feb-2024 11:55:54 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/clientes/form.php:11
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes/form.php(11): PDO->query('SELECT * FROM m...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes/form.php on line 11

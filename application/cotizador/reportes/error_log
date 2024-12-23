@@ -1,0 +1,21 @@
+[19-Jan-2024 15:22:42 America/Bogota] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate CCOFRE S.A.- in /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/PHPExcel/Cell.php:546
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/PHPExcel/Worksheet.php(1134): PHPExcel_Cell::coordinateFromString('CCOFRE S.A.-')
+#1 /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/PHPExcel/Worksheet.php(1042): PHPExcel_Worksheet->getCell('CCOFRE S.A.-')
+#2 /home/masterqu/subdominios/INTRANET/application/cotizador/reportes/reportePrueba.php(169): PHPExcel_Worksheet->setCellValue('CCOFRE S.A.-')
+#3 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/PHPExcel/Cell.php on line 546
+[24-Jan-2024 07:13:44 America/Bogota] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate CSOLANO FLOREZ JEAN CARLOS in /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/PHPExcel/Cell.php:546
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/PHPExcel/Worksheet.php(1134): PHPExcel_Cell::coordinateFromString('CSOLANO FLOREZ ...')
+#1 /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/PHPExcel/Worksheet.php(1042): PHPExcel_Worksheet->getCell('CSOLANO FLOREZ ...')
+#2 /home/masterqu/subdominios/INTRANET/application/cotizador/reportes/reportePrueba.php(169): PHPExcel_Worksheet->setCellValue('Csolano florez ...')
+#3 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/PHPExcel/Cell.php on line 546
+[08-Feb-2024 12:39:03 America/Bogota] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate CINSTRUMENTALIA SAS in /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/PHPExcel/Cell.php:546
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/PHPExcel/Worksheet.php(1134): PHPExcel_Cell::coordinateFromString('CINSTRUMENTALIA...')
+#1 /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/PHPExcel/Worksheet.php(1042): PHPExcel_Worksheet->getCell('CINSTRUMENTALIA...')
+#2 /home/masterqu/subdominios/INTRANET/application/cotizador/reportes/reportePrueba.php(169): PHPExcel_Worksheet->setCellValue('CINSTRUMENTALIA...')
+#3 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/utils/phpexcel/PHPExcel/Cell.php on line 546

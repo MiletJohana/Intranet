@@ -1,0 +1,561 @@
+[02-May-2024 09:39:03 America/Bogota] PHP Warning:  Undefined variable $year in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 60
+[02-May-2024 09:39:03 America/Bogota] PHP Warning:  Undefined array key "" in /home/masterqu/subdominios/INTRANET/application/indicadores/fechFestivos.php on line 46
+[02-May-2024 09:39:03 America/Bogota] PHP Warning:  foreach() argument must be of type array|object, null given in /home/masterqu/subdominios/INTRANET/application/indicadores/fechFestivos.php on line 46
+[02-May-2024 09:39:03 America/Bogota] PHP Fatal error:  Uncaught TypeError: asort(): Argument #1 ($array) must be of type array, null given in /home/masterqu/subdominios/INTRANET/application/indicadores/fechFestivos.php:52
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/fechFestivos.php(52): asort()
+#1 /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php(60): getDateHoliday()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/fechFestivos.php on line 52
+[02-May-2024 12:39:25 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[02-May-2024 12:39:25 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[02-May-2024 12:39:25 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[02-May-2024 12:39:25 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[02-May-2024 12:39:25 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[03-May-2024 15:14:12 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[09-May-2024 08:45:33 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[09-May-2024 08:45:33 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[09-May-2024 08:45:33 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[09-May-2024 08:45:33 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[09-May-2024 08:45:33 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[09-May-2024 08:45:33 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[09-May-2024 08:45:33 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[09-May-2024 08:45:33 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[09-May-2024 08:45:33 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[09-May-2024 08:47:00 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[09-May-2024 08:47:00 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[09-May-2024 08:47:00 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[09-May-2024 08:47:00 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[09-May-2024 08:47:00 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[09-May-2024 08:47:00 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[14-May-2024 12:44:16 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[14-May-2024 12:44:49 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[14-May-2024 12:47:40 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[14-May-2024 12:47:49 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[15-May-2024 11:04:28 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[15-May-2024 11:04:36 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[23-May-2024 13:08:27 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[23-May-2024 13:08:27 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[23-May-2024 13:08:27 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[24-May-2024 14:06:47 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[24-May-2024 14:06:57 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[24-May-2024 14:09:30 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[24-May-2024 14:09:43 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[27-May-2024 06:44:49 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[27-May-2024 06:45:32 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[27-May-2024 06:46:54 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-May-2024 08:48:01 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[28-May-2024 08:48:01 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[28-May-2024 08:48:01 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[28-May-2024 08:48:01 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[28-May-2024 08:48:01 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[28-May-2024 08:48:01 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[28-May-2024 08:48:01 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[28-May-2024 08:48:01 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[28-May-2024 08:48:01 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[28-May-2024 11:24:59 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[28-May-2024 11:24:59 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[28-May-2024 11:24:59 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[28-May-2024 11:24:59 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[28-May-2024 11:24:59 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[05-Jun-2024 11:16:00 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[05-Jun-2024 11:16:00 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[05-Jun-2024 11:16:00 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[05-Jun-2024 11:16:00 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[05-Jun-2024 11:16:00 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[05-Jun-2024 11:16:00 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[06-Jun-2024 12:36:20 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[06-Jun-2024 12:36:20 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[06-Jun-2024 12:36:20 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[06-Jun-2024 12:36:20 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[06-Jun-2024 12:36:20 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[07-Jun-2024 12:04:21 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[07-Jun-2024 12:04:21 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[07-Jun-2024 12:04:21 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[07-Jun-2024 12:04:21 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[07-Jun-2024 12:04:21 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[07-Jun-2024 14:37:49 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[07-Jun-2024 14:38:26 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[07-Jun-2024 15:04:42 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[11-Jun-2024 15:57:08 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[11-Jun-2024 15:57:08 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[11-Jun-2024 15:57:08 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[11-Jun-2024 15:57:08 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[11-Jun-2024 15:57:08 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[13-Jun-2024 16:41:22 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[13-Jun-2024 16:42:00 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[13-Jun-2024 16:42:11 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[13-Jun-2024 16:46:51 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[13-Jun-2024 16:46:56 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[13-Jun-2024 16:56:37 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[13-Jun-2024 16:57:06 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[13-Jun-2024 16:57:36 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[13-Jun-2024 16:57:58 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[13-Jun-2024 17:00:01 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[13-Jun-2024 17:00:13 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[13-Jun-2024 17:05:27 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[13-Jun-2024 17:05:32 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[14-Jun-2024 10:48:38 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[14-Jun-2024 10:48:52 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[14-Jun-2024 12:37:50 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[14-Jun-2024 12:41:24 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[14-Jun-2024 12:41:37 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[14-Jun-2024 14:59:54 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[14-Jun-2024 15:00:05 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[18-Jun-2024 11:53:44 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[18-Jun-2024 11:53:55 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[18-Jun-2024 13:00:31 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[18-Jun-2024 13:02:24 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[18-Jun-2024 13:02:38 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[18-Jun-2024 13:02:52 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[18-Jun-2024 13:04:49 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[18-Jun-2024 13:04:55 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[18-Jun-2024 13:06:21 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[18-Jun-2024 13:06:26 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[18-Jun-2024 13:12:06 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[18-Jun-2024 13:12:16 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[19-Jun-2024 08:57:18 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[19-Jun-2024 15:56:18 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[19-Jun-2024 15:56:24 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[19-Jun-2024 16:00:16 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[19-Jun-2024 16:00:25 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[19-Jun-2024 16:03:48 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[19-Jun-2024 16:04:18 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[19-Jun-2024 16:04:40 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[19-Jun-2024 16:04:45 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[19-Jun-2024 16:10:42 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[19-Jun-2024 16:10:47 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[21-Jun-2024 07:47:01 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[21-Jun-2024 07:47:23 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[21-Jun-2024 08:14:34 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[21-Jun-2024 08:14:49 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[21-Jun-2024 08:23:12 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[21-Jun-2024 08:23:34 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[21-Jun-2024 09:08:36 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[21-Jun-2024 09:11:52 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[21-Jun-2024 10:18:43 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[21-Jun-2024 10:24:09 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[21-Jun-2024 10:24:33 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[21-Jun-2024 10:25:00 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[21-Jun-2024 11:34:39 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[24-Jun-2024 07:52:01 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[24-Jun-2024 08:08:49 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[24-Jun-2024 08:08:56 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[24-Jun-2024 08:16:25 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[24-Jun-2024 08:16:32 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[24-Jun-2024 11:04:55 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[24-Jun-2024 11:05:01 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[24-Jun-2024 11:48:12 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[24-Jun-2024 11:58:36 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[24-Jun-2024 12:00:40 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[24-Jun-2024 12:33:24 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[24-Jun-2024 12:33:31 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[24-Jun-2024 12:37:37 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[24-Jun-2024 12:40:33 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[24-Jun-2024 12:44:00 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[24-Jun-2024 12:44:10 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[24-Jun-2024 12:46:08 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[24-Jun-2024 12:49:41 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[24-Jun-2024 12:51:14 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[24-Jun-2024 12:59:21 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[24-Jun-2024 12:59:26 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[24-Jun-2024 13:01:12 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[24-Jun-2024 13:03:07 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[24-Jun-2024 13:05:37 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[24-Jun-2024 13:06:55 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[24-Jun-2024 13:08:46 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[24-Jun-2024 13:11:22 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[25-Jun-2024 15:52:51 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[25-Jun-2024 15:55:41 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[25-Jun-2024 15:57:08 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[25-Jun-2024 15:58:06 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[25-Jun-2024 15:58:59 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[25-Jun-2024 16:00:32 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[26-Jun-2024 12:12:50 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[26-Jun-2024 12:23:07 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[26-Jun-2024 12:28:06 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[26-Jun-2024 12:28:56 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[26-Jun-2024 12:35:33 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[26-Jun-2024 12:36:21 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[26-Jun-2024 12:53:43 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[27-Jun-2024 14:39:50 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[27-Jun-2024 15:12:24 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[27-Jun-2024 15:18:13 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function bcdiv() in /home/masterqu/subdominios/INTRANET/application/indicadores/functions.php:207
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/tabla.php(53): promYearRot()
+#1 /home/masterqu/subdominios/INTRANET/application/indicadores/index.php(33): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/functions.php on line 207
+[27-Jun-2024 16:34:47 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[05-Jul-2024 08:12:59 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[05-Jul-2024 14:32:34 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[05-Jul-2024 15:58:03 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[08-Jul-2024 10:40:56 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[08-Jul-2024 10:41:25 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[11-Jul-2024 10:16:28 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[11-Jul-2024 10:16:28 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[11-Jul-2024 10:16:28 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[11-Jul-2024 10:16:28 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[11-Jul-2024 10:16:28 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[11-Jul-2024 16:49:52 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[11-Jul-2024 16:49:52 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[11-Jul-2024 16:49:52 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[11-Jul-2024 16:49:52 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[11-Jul-2024 16:49:52 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[23-Jul-2024 08:20:48 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[23-Jul-2024 08:20:48 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[23-Jul-2024 08:20:48 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[23-Jul-2024 12:39:53 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[23-Jul-2024 16:47:15 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[23-Jul-2024 16:47:22 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[23-Jul-2024 16:59:19 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[23-Jul-2024 16:59:25 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[23-Jul-2024 17:03:29 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[23-Jul-2024 17:04:58 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[25-Jul-2024 16:01:33 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[26-Jul-2024 12:56:57 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[26-Jul-2024 12:57:10 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[26-Jul-2024 13:13:25 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[26-Jul-2024 13:13:36 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[26-Jul-2024 13:15:35 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[26-Jul-2024 13:15:47 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[26-Jul-2024 13:17:45 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[26-Jul-2024 13:19:55 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[26-Jul-2024 13:23:08 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[26-Jul-2024 13:23:24 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[26-Jul-2024 14:26:08 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[05-Aug-2024 07:11:21 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php:882
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php(882): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 882
+[05-Aug-2024 07:11:27 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php:882
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php(882): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 882
+[05-Aug-2024 07:11:27 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php:882
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php(882): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 882
+[05-Aug-2024 07:17:43 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[12-Aug-2024 15:11:13 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[12-Aug-2024 15:11:13 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[12-Aug-2024 15:11:13 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[12-Aug-2024 15:11:13 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[12-Aug-2024 15:11:13 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[21-Aug-2024 14:19:30 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 264
+[21-Aug-2024 14:19:30 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 269
+[21-Aug-2024 14:19:30 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 270
+[21-Aug-2024 14:19:30 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 274
+[21-Aug-2024 14:19:30 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 275
+[21-Aug-2024 14:19:30 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 276
+[21-Aug-2024 14:24:39 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[21-Aug-2024 14:24:39 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[21-Aug-2024 14:24:39 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[21-Aug-2024 14:24:39 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[21-Aug-2024 14:24:39 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[21-Aug-2024 14:24:39 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[21-Aug-2024 14:24:39 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[21-Aug-2024 14:24:39 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[21-Aug-2024 14:24:39 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[21-Aug-2024 16:09:51 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[21-Aug-2024 16:09:51 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[21-Aug-2024 16:09:51 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[21-Aug-2024 16:09:51 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[21-Aug-2024 16:09:51 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[21-Aug-2024 16:09:51 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[21-Aug-2024 16:09:51 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[21-Aug-2024 16:09:51 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[21-Aug-2024 16:09:51 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[27-Aug-2024 14:26:44 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[27-Aug-2024 14:26:44 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[27-Aug-2024 14:26:44 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[27-Aug-2024 14:26:44 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[27-Aug-2024 14:26:44 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[27-Aug-2024 14:26:44 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[27-Aug-2024 14:26:44 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[27-Aug-2024 15:04:34 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[27-Aug-2024 15:07:04 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[28-Aug-2024 12:29:13 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Aug-2024 12:29:33 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Aug-2024 12:34:21 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Aug-2024 12:34:33 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Aug-2024 12:36:59 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Aug-2024 12:37:07 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Aug-2024 12:39:22 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Aug-2024 12:39:32 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Aug-2024 12:54:07 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Aug-2024 12:54:15 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Aug-2024 12:55:59 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Aug-2024 12:56:16 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Aug-2024 12:56:51 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Aug-2024 12:58:35 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Aug-2024 12:58:44 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[30-Aug-2024 11:38:41 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[30-Aug-2024 11:38:48 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[02-Sep-2024 10:40:19 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[02-Sep-2024 10:40:19 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[02-Sep-2024 10:40:19 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[02-Sep-2024 10:40:19 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[02-Sep-2024 10:40:19 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[02-Sep-2024 10:40:19 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[02-Sep-2024 10:40:19 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[02-Sep-2024 10:45:43 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[02-Sep-2024 11:27:59 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[02-Sep-2024 11:28:26 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[02-Sep-2024 11:28:34 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[03-Sep-2024 14:10:07 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[03-Sep-2024 14:10:07 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[03-Sep-2024 14:10:07 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[03-Sep-2024 14:11:42 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[03-Sep-2024 14:11:42 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[03-Sep-2024 14:11:42 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[03-Sep-2024 14:11:42 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[03-Sep-2024 14:11:42 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[03-Sep-2024 14:11:42 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[03-Sep-2024 14:11:42 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[04-Sep-2024 10:01:11 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 269
+[04-Sep-2024 10:01:11 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 270
+[04-Sep-2024 10:01:11 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 275
+[04-Sep-2024 10:01:11 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 276
+[18-Sep-2024 08:15:23 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[18-Sep-2024 08:15:23 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[18-Sep-2024 08:15:23 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[18-Sep-2024 08:15:23 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[18-Sep-2024 08:15:23 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[18-Sep-2024 08:15:23 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[18-Sep-2024 08:24:03 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[18-Sep-2024 08:24:03 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[18-Sep-2024 08:24:03 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[18-Sep-2024 08:24:03 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[18-Sep-2024 08:24:03 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[18-Sep-2024 08:24:03 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[18-Sep-2024 08:24:16 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[18-Sep-2024 08:24:16 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[18-Sep-2024 08:24:16 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[18-Sep-2024 08:24:16 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[26-Sep-2024 14:06:31 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[26-Sep-2024 14:06:31 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[26-Sep-2024 14:06:31 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[26-Sep-2024 14:06:31 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[26-Sep-2024 14:06:31 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[26-Sep-2024 14:06:31 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[26-Sep-2024 16:04:31 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[26-Sep-2024 16:04:43 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[26-Sep-2024 16:10:27 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[26-Sep-2024 16:10:45 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[01-Oct-2024 11:24:13 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 263
+[01-Oct-2024 11:24:13 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 264
+[01-Oct-2024 11:24:13 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 269
+[01-Oct-2024 11:24:13 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 270
+[01-Oct-2024 11:24:13 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 273
+[01-Oct-2024 11:24:13 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 274
+[01-Oct-2024 11:24:13 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 275
+[01-Oct-2024 11:24:13 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 276
+[10-Oct-2024 09:23:34 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[10-Oct-2024 09:23:34 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[10-Oct-2024 09:23:34 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[10-Oct-2024 09:23:34 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[10-Oct-2024 09:23:34 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[10-Oct-2024 09:23:34 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[10-Oct-2024 09:23:34 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[10-Oct-2024 09:44:28 America/Bogota] PHP Warning:  Undefined array key "des" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 74
+[11-Oct-2024 16:36:07 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[11-Oct-2024 16:36:15 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[11-Oct-2024 16:37:15 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[11-Oct-2024 16:37:19 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[16-Oct-2024 10:20:43 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[16-Oct-2024 10:20:43 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[16-Oct-2024 10:20:43 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[16-Oct-2024 10:20:43 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[16-Oct-2024 10:20:43 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[16-Oct-2024 10:20:43 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[16-Oct-2024 10:20:43 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[16-Oct-2024 10:20:43 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[16-Oct-2024 10:20:43 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[16-Oct-2024 19:38:19 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[16-Oct-2024 19:38:19 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[16-Oct-2024 19:38:19 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[16-Oct-2024 19:38:19 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[16-Oct-2024 19:38:19 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[16-Oct-2024 19:39:17 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[16-Oct-2024 19:39:17 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[16-Oct-2024 19:39:17 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[16-Oct-2024 19:39:17 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[16-Oct-2024 19:39:17 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[13-Nov-2024 12:12:30 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[13-Nov-2024 12:12:36 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[18-Nov-2024 13:41:59 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[18-Nov-2024 13:41:59 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[18-Nov-2024 13:41:59 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[18-Nov-2024 13:41:59 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[18-Nov-2024 13:41:59 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[18-Nov-2024 13:41:59 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[18-Nov-2024 13:41:59 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[18-Nov-2024 13:42:23 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[18-Nov-2024 13:42:23 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[18-Nov-2024 13:42:23 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[19-Nov-2024 12:00:15 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[19-Nov-2024 12:01:39 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[19-Nov-2024 12:02:44 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[21-Nov-2024 08:23:21 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[21-Nov-2024 08:23:21 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[21-Nov-2024 08:23:21 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[21-Nov-2024 08:23:21 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[21-Nov-2024 08:23:21 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[21-Nov-2024 08:23:21 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[21-Nov-2024 08:23:21 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[23-Nov-2024 12:23:16 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[23-Nov-2024 12:23:16 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[23-Nov-2024 12:23:16 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[25-Nov-2024 14:09:46 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[25-Nov-2024 14:09:46 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[25-Nov-2024 14:09:46 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[25-Nov-2024 14:09:46 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[25-Nov-2024 14:09:46 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[25-Nov-2024 14:09:46 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[25-Nov-2024 14:09:46 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[25-Nov-2024 14:10:12 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[25-Nov-2024 14:10:12 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[25-Nov-2024 14:10:12 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[25-Nov-2024 14:10:12 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[25-Nov-2024 14:10:12 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[25-Nov-2024 14:20:14 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[25-Nov-2024 14:20:14 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[25-Nov-2024 14:20:14 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[25-Nov-2024 14:20:14 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[25-Nov-2024 14:20:14 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[27-Nov-2024 21:57:02 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[27-Nov-2024 21:57:11 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Nov-2024 07:49:59 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Nov-2024 07:50:05 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Nov-2024 07:53:56 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Nov-2024 07:54:07 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Nov-2024 08:17:00 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Nov-2024 08:17:35 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Nov-2024 08:19:07 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Nov-2024 08:19:15 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Nov-2024 08:22:27 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Nov-2024 08:22:39 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Nov-2024 08:23:32 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Nov-2024 08:23:42 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Nov-2024 08:24:08 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Nov-2024 08:25:39 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Nov-2024 08:28:38 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Nov-2024 08:28:51 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Nov-2024 08:30:11 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Nov-2024 08:30:23 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Nov-2024 09:05:01 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Nov-2024 09:05:26 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Nov-2024 09:08:51 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Nov-2024 09:08:59 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[28-Nov-2024 09:44:12 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/indicadores/boton.php on line 71
+[28-Nov-2024 09:49:08 America/Bogota] PHP Warning:  Undefined array key "pass" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 1307
+[04-Dec-2024 07:26:24 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php:882
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php(882): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 882
+[04-Dec-2024 07:26:27 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php:882
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php(882): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 882
+[04-Dec-2024 07:26:30 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php:882
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php(882): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 882
+[04-Dec-2024 07:26:30 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php:882
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php(882): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 882
+[04-Dec-2024 07:26:31 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php:882
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php(882): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 882
+[04-Dec-2024 07:26:32 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php:882
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php(882): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 882
+[04-Dec-2024 07:26:33 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php:882
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php(882): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 882
+[04-Dec-2024 07:26:39 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php:882
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php(882): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 882
+[04-Dec-2024 07:28:40 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php:882
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php(882): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 882
+[04-Dec-2024 07:28:41 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php:882
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php(882): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 882
+[04-Dec-2024 07:42:07 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php:882
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php(882): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 882
+[04-Dec-2024 08:24:48 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 263
+[04-Dec-2024 08:24:48 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 264
+[04-Dec-2024 08:24:48 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 269
+[04-Dec-2024 08:24:48 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 273
+[04-Dec-2024 08:24:48 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 274
+[04-Dec-2024 08:24:48 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 275
+[06-Dec-2024 07:44:21 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[06-Dec-2024 07:44:21 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[06-Dec-2024 07:44:21 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[06-Dec-2024 07:44:21 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[06-Dec-2024 07:44:21 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[06-Dec-2024 07:44:21 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[06-Dec-2024 07:44:21 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[06-Dec-2024 07:44:21 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[06-Dec-2024 07:44:21 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[09-Dec-2024 10:26:32 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[09-Dec-2024 10:26:32 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[09-Dec-2024 10:26:32 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/indicadores/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[09-Dec-2024 10:26:38 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function bcdiv() in /home/masterqu/subdominios/INTRANET/application/indicadores/functions.php:207
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/indicadores/tabla.php(53): promYearRot()
+#1 /home/masterqu/subdominios/INTRANET/application/indicadores/index.php(33): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/indicadores/functions.php on line 207
+[10-Dec-2024 13:37:12 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[10-Dec-2024 13:37:12 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[10-Dec-2024 13:37:12 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[10-Dec-2024 13:37:12 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[10-Dec-2024 13:37:12 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[14-Dec-2024 12:10:36 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[14-Dec-2024 12:10:36 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[14-Dec-2024 12:10:36 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[14-Dec-2024 12:10:36 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[14-Dec-2024 12:10:36 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[14-Dec-2024 12:10:36 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[14-Dec-2024 12:10:36 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[14-Dec-2024 12:11:03 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 197
+[14-Dec-2024 12:11:03 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 198
+[14-Dec-2024 12:11:03 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 203
+[14-Dec-2024 12:11:03 America/Bogota] PHP Warning:  Undefined array key "salario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 207
+[14-Dec-2024 12:11:03 America/Bogota] PHP Warning:  Undefined array key "variable" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 208
+[14-Dec-2024 12:11:03 America/Bogota] PHP Warning:  Undefined array key "rodamiento" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 209
+[14-Dec-2024 12:11:03 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212
+[16-Dec-2024 08:31:04 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 204
+[16-Dec-2024 08:31:04 America/Bogota] PHP Warning:  Undefined array key "nosalario" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 210
+[16-Dec-2024 08:31:04 America/Bogota] PHP Warning:  Undefined array key "prom_var" in /home/masterqu/subdominios/INTRANET/application/indicadores/indicador.controller.php on line 212

@@ -1,0 +1,89 @@
+[16-Apr-2024 12:11:14 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/subdominios/INTRANET/resources/template/head.php on line 20
+[16-Apr-2024 12:11:14 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[16-Apr-2024 12:11:14 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY p.padre' at line 4 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:10
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(10): PDO->query('SELECT p.padre ...')
+#1 /home/masterqu/subdominios/INTRANET/application/eventos/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 10
+[16-Apr-2024 12:14:28 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 26
+[16-Apr-2024 13:08:06 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/subdominios/INTRANET/resources/template/head.php on line 20
+[16-Apr-2024 13:08:06 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[16-Apr-2024 13:08:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY p.padre' at line 4 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:10
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(10): PDO->query('SELECT p.padre ...')
+#1 /home/masterqu/subdominios/INTRANET/application/eventos/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 10
+[16-Apr-2024 14:06:35 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/subdominios/INTRANET/resources/template/head.php on line 20
+[16-Apr-2024 14:06:35 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[16-Apr-2024 14:06:35 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY p.padre' at line 4 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:10
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(10): PDO->query('SELECT p.padre ...')
+#1 /home/masterqu/subdominios/INTRANET/application/eventos/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 10
+[16-Apr-2024 14:53:00 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 26
+[16-Apr-2024 15:11:01 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 26
+[16-Apr-2024 15:11:14 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 26
+[16-Apr-2024 15:11:49 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 26
+[16-Apr-2024 15:13:35 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 26
+[16-Apr-2024 15:15:29 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 26
+[16-Apr-2024 15:21:23 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 26
+[17-Apr-2024 10:01:44 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 26
+[17-Apr-2024 15:01:37 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 5
+[17-Apr-2024 15:01:37 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php:6
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/eventos/form1.php(6): PDO->query('SELECT * FROM i...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 6
+[17-Apr-2024 16:06:20 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 5
+[17-Apr-2024 16:06:20 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php:6
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/eventos/form1.php(6): PDO->query('SELECT * FROM i...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 6
+[18-Apr-2024 07:59:28 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form2.php on line 35
+[18-Apr-2024 08:09:16 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form2.php on line 35
+[22-Apr-2024 07:56:21 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 26
+[22-Apr-2024 07:58:21 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 26
+[22-Apr-2024 07:59:13 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form2.php on line 35
+[22-Apr-2024 08:00:10 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form2.php on line 35
+[22-Apr-2024 08:00:36 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 26
+[22-Apr-2024 08:27:56 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 26
+[22-Apr-2024 08:28:05 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form2.php on line 35
+[30-Apr-2024 10:24:35 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form1.php on line 26
+[30-Apr-2024 10:24:39 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/subdominios/INTRANET/application/eventos/form2.php on line 35
+[03-May-2024 14:09:15 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[03-May-2024 14:09:15 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[03-May-2024 14:09:15 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:21
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(21): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/eventos/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 21
+[10-May-2024 08:26:19 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[10-May-2024 08:26:19 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[10-May-2024 08:26:19 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:21
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(21): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/eventos/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 21
+[10-May-2024 08:26:19 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[10-May-2024 08:26:19 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[10-May-2024 08:26:19 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:21
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(21): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/eventos/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 21
+[10-May-2024 08:26:20 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[10-May-2024 08:26:20 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[10-May-2024 08:26:20 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:21
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(21): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/eventos/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 21
+[06-Dec-2024 10:05:27 America/Bogota] PHP Warning:  Undefined array key "edit" in /home/masterqu/subdominios/INTRANET/application/eventos/form2.php on line 35

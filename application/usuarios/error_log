@@ -1,0 +1,43 @@
+[12-Nov-2024 07:27:13 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AS p
+ON u.id_per = p.id_per
+WHERE id_usu  = '1071628649' GROUP BY p.padre' at line 2 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:9
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(9): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/usuarios/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 9
+[12-Nov-2024 07:27:18 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AS p
+ON u.id_per = p.id_per
+WHERE id_usu  = '1071628649' GROUP BY p.padre' at line 2 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:9
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(9): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/usuarios/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 9
+[12-Nov-2024 07:27:19 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AS p
+ON u.id_per = p.id_per
+WHERE id_usu  = '1071628649' GROUP BY p.padre' at line 2 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:9
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(9): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/usuarios/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 9
+[12-Nov-2024 07:39:47 America/Bogota] PHP Warning:  Undefined array key "fec_firm" in /home/masterqu/subdominios/INTRANET/application/usuarios/usuarios.controller.php on line 6
+[12-Nov-2024 12:36:11 America/Bogota] PHP Warning:  Undefined array key "fec_firm" in /home/masterqu/subdominios/INTRANET/application/usuarios/usuarios.controller.php on line 6
+[12-Nov-2024 12:36:36 America/Bogota] PHP Warning:  Undefined array key "fec_firm" in /home/masterqu/subdominios/INTRANET/application/usuarios/usuarios.controller.php on line 6
+[12-Nov-2024 12:36:52 America/Bogota] PHP Warning:  Undefined array key "fec_firm" in /home/masterqu/subdominios/INTRANET/application/usuarios/usuarios.controller.php on line 6
+[12-Nov-2024 12:44:59 America/Bogota] PHP Warning:  Undefined array key "fec_firm" in /home/masterqu/subdominios/INTRANET/application/usuarios/usuarios.controller.php on line 6
+[12-Nov-2024 12:46:36 America/Bogota] PHP Warning:  Undefined array key "fec_firm" in /home/masterqu/subdominios/INTRANET/application/usuarios/usuarios.controller.php on line 6
+[12-Nov-2024 14:11:06 America/Bogota] PHP Warning:  Undefined array key "fec_firm" in /home/masterqu/subdominios/INTRANET/application/usuarios/usuarios.controller.php on line 6
+[12-Nov-2024 14:11:18 America/Bogota] PHP Warning:  Undefined array key "fec_firm" in /home/masterqu/subdominios/INTRANET/application/usuarios/usuarios.controller.php on line 6
+[12-Nov-2024 14:11:48 America/Bogota] PHP Warning:  Undefined array key "fec_firm" in /home/masterqu/subdominios/INTRANET/application/usuarios/usuarios.controller.php on line 6
+[22-Nov-2024 14:23:35 America/Bogota] PHP Warning:  Undefined array key "fec_firm" in /home/masterqu/subdominios/INTRANET/application/usuarios/usuarios.controller.php on line 6
+[03-Dec-2024 06:33:47 America/Bogota] PHP Warning:  Undefined array key "fec_firm" in /home/masterqu/subdominios/INTRANET/application/usuarios/usuarios.controller.php on line 6
+[04-Dec-2024 09:01:33 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[04-Dec-2024 09:01:33 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[04-Dec-2024 09:01:33 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/usuarios/index.php(24): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20

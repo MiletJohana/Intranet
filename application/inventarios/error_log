@@ -1,0 +1,10 @@
+[25-Sep-2024 16:39:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`masterqu_intranet`.`inv_inventario`, CONSTRAINT `inv_inventario_ibfk_1` FOREIGN KEY (`id_prod`) REFERENCES `inv_product` (`id_prod`)) in /home/masterqu/subdominios/INTRANET/application/inventarios/inventarios.controller.php:85
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/inventarios/inventarios.controller.php(85): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/inventarios/inventarios.controller.php on line 85
+[26-Sep-2024 07:30:43 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`masterqu_intranet`.`inv_inventario`, CONSTRAINT `inv_inventario_ibfk_1` FOREIGN KEY (`id_prod`) REFERENCES `inv_product` (`id_prod`)) in /home/masterqu/subdominios/INTRANET/application/inventarios/inventarios.controller.php:85
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/inventarios/inventarios.controller.php(85): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/inventarios/inventarios.controller.php on line 85

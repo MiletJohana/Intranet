@@ -1,0 +1,384 @@
+[11-Oct-2023 16:35:27 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 16:35:27 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[11-Oct-2023 16:35:27 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[11-Oct-2023 16:35:27 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/comercial/index.php(28): include()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[11-Oct-2023 16:35:35 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 16:35:40 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 16:35:41 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/public_html/subdominios/intranet/application/comercial/form.php on line 92
+[11-Oct-2023 16:35:41 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/application/comercial/form.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/application/comercial/form.php on line 95
+[27-Oct-2023 13:09:30 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Oct-2023 13:09:40 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Oct-2023 13:09:44 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Oct-2023 13:09:48 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[22-Jan-2024 10:55:25 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_array() in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 37
+[22-Jan-2024 10:55:44 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_array() in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 37
+[22-Jan-2024 10:56:55 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_array() in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 95
+[22-Jan-2024 15:12:04 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 92
+[22-Jan-2024 15:12:04 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:94
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(94): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 94
+[22-Jan-2024 16:29:54 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 92
+[22-Jan-2024 16:29:54 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:94
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(94): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 94
+[23-Jan-2024 09:20:41 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 92
+[23-Jan-2024 09:20:41 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:94
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(94): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 94
+[23-Jan-2024 09:51:35 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 92
+[23-Jan-2024 09:51:35 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:94
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(94): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 94
+[23-Jan-2024 10:03:06 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 92
+[23-Jan-2024 10:03:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:94
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(94): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 94
+[23-Jan-2024 10:08:45 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 92
+[23-Jan-2024 10:08:45 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:94
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(94): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 94
+[23-Jan-2024 10:13:17 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:13:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:13:31 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 96
+[23-Jan-2024 10:13:31 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:98
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(98): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 98
+[23-Jan-2024 10:13:54 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 96
+[23-Jan-2024 10:13:54 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:98
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(98): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 98
+[23-Jan-2024 10:18:20 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:18:20 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:24:54 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 98
+[23-Jan-2024 10:24:54 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:100
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(100): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 100
+[23-Jan-2024 10:25:33 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:25:33 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:39:00 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:39:00 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:39:02 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:39:02 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:39:45 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:39:45 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:43:23 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:43:23 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:44:59 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:44:59 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:45:25 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:45:25 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:45:55 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:45:55 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:52:50 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:52:50 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:52:52 America/Bogota] PHP Notice:  Undefined variable: r in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 198
+[23-Jan-2024 10:52:52 America/Bogota] PHP Notice:  Undefined variable: r in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 205
+[23-Jan-2024 10:54:53 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:54:53 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:55:12 America/Bogota] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 229
+[23-Jan-2024 10:55:12 America/Bogota] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 229
+[23-Jan-2024 10:55:14 America/Bogota] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 229
+[23-Jan-2024 10:55:23 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:55:23 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:55:24 America/Bogota] PHP Notice:  Undefined variable: r in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 198
+[23-Jan-2024 10:55:24 America/Bogota] PHP Notice:  Undefined variable: r in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 204
+[23-Jan-2024 10:56:54 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:56:54 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:57:15 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:57:15 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:57:15 America/Bogota] PHP Notice:  Undefined variable: r in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 197
+[23-Jan-2024 10:57:43 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:57:43 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:57:45 America/Bogota] PHP Notice:  Undefined variable: r in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 197
+[23-Jan-2024 10:58:34 America/Bogota] PHP Notice:  Undefined variable: r in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 197
+[23-Jan-2024 10:58:34 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:58:34 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:58:44 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:58:44 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 10:58:44 America/Bogota] PHP Notice:  Undefined variable: r in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 197
+[23-Jan-2024 10:59:23 America/Bogota] PHP Notice:  Undefined variable: r in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 197
+[23-Jan-2024 10:59:23 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 10:59:23 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 11:00:14 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 11:00:14 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 11:00:14 America/Bogota] PHP Notice:  Undefined variable: r in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 197
+[23-Jan-2024 11:00:34 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 11:00:34 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 11:00:34 America/Bogota] PHP Notice:  Undefined variable: r in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 197
+[23-Jan-2024 11:01:14 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 11:01:14 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 11:01:14 America/Bogota] PHP Notice:  Undefined variable: r in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 197
+[23-Jan-2024 11:01:28 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 11:01:28 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 11:01:29 America/Bogota] PHP Notice:  Undefined variable: r in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 197
+[23-Jan-2024 11:02:06 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 11:02:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 11:02:07 America/Bogota] PHP Notice:  Undefined variable: r in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 197
+[23-Jan-2024 11:03:20 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 11:03:20 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 11:05:06 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 11:05:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 11:05:13 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 11:05:13 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 11:12:16 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 11:12:16 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 11:12:26 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 11:12:26 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 14:54:44 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 14:54:44 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[23-Jan-2024 14:54:54 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[23-Jan-2024 14:54:54 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 15:46:48 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 15:46:48 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 15:46:52 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 15:46:52 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 15:47:44 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 15:47:44 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 15:48:57 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 15:48:57 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 16:12:03 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 16:12:03 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 16:12:04 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 16:12:04 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 16:12:14 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 16:12:14 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 16:12:23 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 16:12:23 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 16:12:33 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 16:12:33 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 16:13:31 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 16:13:31 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 16:13:33 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 16:13:33 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 16:13:40 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 16:13:40 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 16:13:47 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 16:13:47 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 16:13:48 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 16:13:48 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 16:14:01 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 16:14:01 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99
+[06-Feb-2024 16:15:01 America/Bogota] PHP Notice:  Undefined variable: rEst in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 97
+[06-Feb-2024 16:15:01 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/comercial/form.php:99
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/comercial/form.php(99): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/comercial/form.php on line 99

@@ -1,0 +1,1040 @@
+[11-Sep-2023 13:53:21 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Sep-2023 13:53:21 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[11-Sep-2023 13:53:21 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[11-Sep-2023 13:53:21 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[11-Sep-2023 13:53:22 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Sep-2023 13:53:22 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[11-Sep-2023 13:53:22 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[11-Sep-2023 13:53:22 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[12-Sep-2023 06:56:08 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 06:56:08 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 06:56:08 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[12-Sep-2023 06:56:08 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[12-Sep-2023 06:56:08 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[12-Sep-2023 06:56:08 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[12-Sep-2023 06:56:08 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[12-Sep-2023 06:56:08 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[12-Sep-2023 07:32:51 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 08:49:59 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 08:50:06 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 08:55:17 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 08:55:17 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[12-Sep-2023 08:55:17 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[12-Sep-2023 08:55:17 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[12-Sep-2023 08:55:24 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 09:02:06 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 09:02:29 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 09:02:32 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 09:03:12 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 09:06:27 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 09:14:01 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 10:13:10 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 10:13:10 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[12-Sep-2023 10:13:10 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[12-Sep-2023 10:13:10 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[12-Sep-2023 11:49:14 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 11:49:14 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[12-Sep-2023 11:49:14 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 11:49:14 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[12-Sep-2023 11:49:14 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[12-Sep-2023 11:49:14 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[12-Sep-2023 11:49:14 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[12-Sep-2023 11:49:14 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[12-Sep-2023 15:07:36 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 15:07:39 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 17:19:06 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Sep-2023 17:19:06 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[12-Sep-2023 17:19:06 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[12-Sep-2023 17:19:06 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[13-Sep-2023 10:25:59 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[13-Sep-2023 10:25:59 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[13-Sep-2023 10:25:59 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[13-Sep-2023 10:25:59 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[13-Sep-2023 10:25:59 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[13-Sep-2023 10:25:59 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[13-Sep-2023 10:25:59 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[13-Sep-2023 10:25:59 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[13-Sep-2023 10:30:15 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[13-Sep-2023 10:30:15 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[13-Sep-2023 10:30:15 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[13-Sep-2023 10:30:15 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[13-Sep-2023 10:30:15 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[13-Sep-2023 10:30:15 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[13-Sep-2023 10:30:15 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[13-Sep-2023 10:30:15 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[13-Sep-2023 12:18:00 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[13-Sep-2023 14:40:57 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[13-Sep-2023 14:59:21 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[14-Sep-2023 06:52:03 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[14-Sep-2023 06:52:03 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[14-Sep-2023 06:52:03 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[14-Sep-2023 06:52:03 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[14-Sep-2023 06:52:03 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[14-Sep-2023 06:52:03 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[14-Sep-2023 06:52:03 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[14-Sep-2023 06:52:03 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[14-Sep-2023 07:38:05 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[14-Sep-2023 07:38:07 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/public_html/subdominios/intranet/application/permisos/form2.php on line 35
+[14-Sep-2023 07:38:10 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[14-Sep-2023 08:29:06 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[14-Sep-2023 08:32:13 America/Bogota] PHP Warning:  unlink(../../documentos/permisos/): Is a directory in /home/masterqu/public_html/subdominios/intranet/application/permisos/permisos.controller.php on line 371
+[14-Sep-2023 08:32:19 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[14-Sep-2023 12:42:53 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[14-Sep-2023 12:42:53 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[14-Sep-2023 12:42:53 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[14-Sep-2023 12:42:53 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[14-Sep-2023 12:42:53 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[14-Sep-2023 12:42:53 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[14-Sep-2023 12:42:53 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[14-Sep-2023 12:42:53 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[14-Sep-2023 14:00:44 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[14-Sep-2023 15:13:39 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[14-Sep-2023 15:13:39 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[14-Sep-2023 15:13:39 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[14-Sep-2023 15:13:39 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[14-Sep-2023 15:24:05 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[14-Sep-2023 15:24:08 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[15-Sep-2023 07:05:40 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[15-Sep-2023 07:05:40 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[15-Sep-2023 07:05:40 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[15-Sep-2023 07:05:40 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[15-Sep-2023 07:05:40 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[15-Sep-2023 07:05:40 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[15-Sep-2023 07:05:40 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[15-Sep-2023 07:05:40 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[15-Sep-2023 07:14:43 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[15-Sep-2023 08:09:47 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[15-Sep-2023 08:09:49 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[18-Sep-2023 06:41:05 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[18-Sep-2023 06:59:57 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[18-Sep-2023 06:59:57 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[18-Sep-2023 06:59:57 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[18-Sep-2023 06:59:57 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[18-Sep-2023 06:59:57 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[18-Sep-2023 06:59:57 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[18-Sep-2023 06:59:57 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[18-Sep-2023 06:59:57 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[19-Sep-2023 06:39:06 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[19-Sep-2023 07:29:16 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[19-Sep-2023 07:29:16 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[19-Sep-2023 07:29:16 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[19-Sep-2023 07:29:16 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[19-Sep-2023 07:30:01 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[19-Sep-2023 07:30:03 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[19-Sep-2023 07:30:05 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[19-Sep-2023 08:23:16 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[19-Sep-2023 08:38:56 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[19-Sep-2023 08:38:56 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[19-Sep-2023 08:38:56 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[19-Sep-2023 08:38:56 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[19-Sep-2023 08:52:46 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[19-Sep-2023 09:16:08 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[19-Sep-2023 09:26:01 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[19-Sep-2023 09:26:01 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[19-Sep-2023 09:26:01 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[19-Sep-2023 09:26:01 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[19-Sep-2023 15:48:49 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 06:57:00 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 06:57:00 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 06:57:00 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[20-Sep-2023 06:57:00 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[20-Sep-2023 06:57:00 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[20-Sep-2023 06:57:00 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[20-Sep-2023 06:57:00 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[20-Sep-2023 06:57:00 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[20-Sep-2023 07:03:07 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 07:03:17 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/public_html/subdominios/intranet/application/permisos/form2.php on line 35
+[20-Sep-2023 10:05:20 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 10:05:32 America/Bogota] PHP Notice:  Undefined index: edit in /home/masterqu/public_html/subdominios/intranet/application/permisos/form2.php on line 35
+[20-Sep-2023 10:05:36 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 13:39:21 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 13:39:21 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[20-Sep-2023 13:39:21 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[20-Sep-2023 13:39:21 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[20-Sep-2023 13:39:29 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 15:36:14 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 15:39:27 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 15:39:33 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 15:40:23 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 15:40:29 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 15:40:58 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 15:40:58 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[20-Sep-2023 15:40:58 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[20-Sep-2023 15:40:58 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[20-Sep-2023 15:41:07 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 15:41:09 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 15:47:37 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 15:47:42 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 15:52:03 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 15:52:03 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 15:52:03 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[20-Sep-2023 15:52:03 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[20-Sep-2023 15:52:03 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[20-Sep-2023 15:52:03 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[20-Sep-2023 15:52:03 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[20-Sep-2023 15:52:03 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[20-Sep-2023 15:53:57 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 21:07:16 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Sep-2023 21:07:16 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[20-Sep-2023 21:07:16 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[20-Sep-2023 21:07:16 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[21-Sep-2023 07:10:21 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[21-Sep-2023 07:10:21 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[21-Sep-2023 07:10:21 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[21-Sep-2023 07:10:21 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[21-Sep-2023 07:10:21 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[21-Sep-2023 07:10:21 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[21-Sep-2023 07:10:21 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[21-Sep-2023 07:10:21 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[21-Sep-2023 09:13:34 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[21-Sep-2023 09:13:34 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[21-Sep-2023 09:13:34 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[21-Sep-2023 09:13:34 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[22-Sep-2023 07:05:04 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[22-Sep-2023 07:05:04 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[22-Sep-2023 07:05:04 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[22-Sep-2023 07:05:04 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[22-Sep-2023 07:05:04 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[22-Sep-2023 07:05:04 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[22-Sep-2023 07:05:04 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[22-Sep-2023 07:05:04 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[22-Sep-2023 09:51:25 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[22-Sep-2023 09:51:25 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[22-Sep-2023 09:51:25 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[22-Sep-2023 09:51:25 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[22-Sep-2023 09:51:25 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[22-Sep-2023 09:51:25 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[22-Sep-2023 09:51:25 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[22-Sep-2023 09:51:25 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[22-Sep-2023 12:20:32 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[22-Sep-2023 13:38:58 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[22-Sep-2023 14:21:48 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Sep-2023 07:02:29 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Sep-2023 07:02:29 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Sep-2023 07:02:29 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[25-Sep-2023 07:02:29 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[25-Sep-2023 07:02:29 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[25-Sep-2023 07:02:29 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[25-Sep-2023 07:02:29 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[25-Sep-2023 07:02:29 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[25-Sep-2023 07:28:09 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Sep-2023 08:14:01 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Sep-2023 08:14:02 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Sep-2023 08:39:31 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Sep-2023 09:58:05 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Sep-2023 09:58:05 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[25-Sep-2023 09:58:05 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[25-Sep-2023 09:58:05 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[25-Sep-2023 11:28:57 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Sep-2023 11:29:48 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Sep-2023 11:29:48 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[25-Sep-2023 11:29:48 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[25-Sep-2023 11:29:48 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[25-Sep-2023 13:22:54 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Sep-2023 13:22:59 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Sep-2023 13:23:50 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Sep-2023 13:34:44 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Sep-2023 15:38:50 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Sep-2023 15:38:50 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[25-Sep-2023 15:38:50 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[25-Sep-2023 15:38:50 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[26-Sep-2023 07:02:24 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[26-Sep-2023 07:02:24 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[26-Sep-2023 07:02:24 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[26-Sep-2023 07:02:24 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[26-Sep-2023 07:02:24 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[26-Sep-2023 07:02:24 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[26-Sep-2023 07:02:24 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[26-Sep-2023 07:02:24 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[26-Sep-2023 11:49:04 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[26-Sep-2023 11:49:07 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[26-Sep-2023 12:06:48 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[26-Sep-2023 14:29:16 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[26-Sep-2023 18:12:54 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Sep-2023 06:53:14 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Sep-2023 06:53:14 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Sep-2023 06:53:14 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[27-Sep-2023 06:53:14 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[27-Sep-2023 06:53:14 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[27-Sep-2023 06:53:14 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[27-Sep-2023 06:53:14 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[27-Sep-2023 06:53:14 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[27-Sep-2023 08:26:41 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Sep-2023 08:41:48 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Sep-2023 08:41:53 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Sep-2023 08:42:04 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Sep-2023 08:42:16 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Sep-2023 08:54:25 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Sep-2023 08:54:25 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[27-Sep-2023 08:54:25 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[27-Sep-2023 08:54:25 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[27-Sep-2023 09:05:39 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Sep-2023 09:05:44 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Sep-2023 12:19:59 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Sep-2023 12:19:59 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[27-Sep-2023 12:19:59 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[27-Sep-2023 12:19:59 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[27-Sep-2023 15:41:41 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Sep-2023 15:41:41 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[27-Sep-2023 15:41:41 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[27-Sep-2023 15:41:41 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[28-Sep-2023 07:01:30 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[28-Sep-2023 07:01:30 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[28-Sep-2023 07:01:30 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[28-Sep-2023 07:01:30 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[28-Sep-2023 07:01:30 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[28-Sep-2023 07:01:30 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[28-Sep-2023 07:01:30 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[28-Sep-2023 07:01:30 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[29-Sep-2023 07:03:59 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[29-Sep-2023 07:03:59 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[29-Sep-2023 07:03:59 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[29-Sep-2023 07:03:59 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[29-Sep-2023 07:03:59 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[29-Sep-2023 07:03:59 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[29-Sep-2023 07:03:59 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[29-Sep-2023 07:03:59 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[29-Sep-2023 08:41:50 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[29-Sep-2023 08:42:24 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[29-Sep-2023 10:26:45 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[29-Sep-2023 10:58:00 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[29-Sep-2023 10:58:00 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[29-Sep-2023 10:58:00 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[29-Sep-2023 10:58:00 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[29-Sep-2023 10:58:11 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[29-Sep-2023 15:14:57 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[29-Sep-2023 15:56:36 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[29-Sep-2023 16:30:22 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[29-Sep-2023 16:30:22 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[29-Sep-2023 16:30:22 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[29-Sep-2023 16:30:22 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[02-Oct-2023 07:15:41 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[02-Oct-2023 07:15:41 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[02-Oct-2023 07:15:41 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[02-Oct-2023 07:15:41 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[02-Oct-2023 07:15:41 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[02-Oct-2023 07:15:41 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[02-Oct-2023 07:15:41 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[02-Oct-2023 07:15:41 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[02-Oct-2023 15:35:00 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[02-Oct-2023 15:35:00 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[02-Oct-2023 15:35:00 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[02-Oct-2023 15:35:00 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[02-Oct-2023 15:35:34 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[02-Oct-2023 15:35:43 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[03-Oct-2023 06:52:18 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[03-Oct-2023 06:52:18 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[03-Oct-2023 06:52:18 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[03-Oct-2023 06:52:18 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[03-Oct-2023 06:52:18 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[03-Oct-2023 06:52:18 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[03-Oct-2023 06:52:18 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[03-Oct-2023 06:52:18 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[03-Oct-2023 09:03:56 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[03-Oct-2023 09:03:56 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[03-Oct-2023 09:03:56 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[03-Oct-2023 09:03:56 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[03-Oct-2023 09:16:25 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[03-Oct-2023 09:16:25 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[03-Oct-2023 09:16:25 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[03-Oct-2023 09:16:25 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[03-Oct-2023 09:50:06 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[03-Oct-2023 10:12:54 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[03-Oct-2023 10:26:31 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[03-Oct-2023 10:28:11 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[03-Oct-2023 12:13:45 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[03-Oct-2023 12:27:28 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[03-Oct-2023 16:17:49 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[03-Oct-2023 16:17:49 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[03-Oct-2023 16:17:49 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[03-Oct-2023 16:17:49 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[04-Oct-2023 06:57:23 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[04-Oct-2023 06:57:23 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[04-Oct-2023 06:57:23 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[04-Oct-2023 06:57:23 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[04-Oct-2023 06:57:23 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[04-Oct-2023 06:57:23 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[04-Oct-2023 06:57:23 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[04-Oct-2023 06:57:23 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[04-Oct-2023 11:37:02 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[04-Oct-2023 11:37:02 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[04-Oct-2023 11:37:02 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[04-Oct-2023 11:37:02 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[04-Oct-2023 11:37:03 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[04-Oct-2023 11:37:03 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[04-Oct-2023 11:37:03 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[04-Oct-2023 11:37:03 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[04-Oct-2023 14:19:25 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[04-Oct-2023 14:59:14 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[04-Oct-2023 14:59:14 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[04-Oct-2023 14:59:14 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[04-Oct-2023 14:59:14 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[04-Oct-2023 14:59:14 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[04-Oct-2023 14:59:14 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[04-Oct-2023 14:59:14 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[04-Oct-2023 14:59:14 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[04-Oct-2023 16:15:28 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[05-Oct-2023 06:59:07 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[05-Oct-2023 06:59:07 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[05-Oct-2023 06:59:07 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[05-Oct-2023 06:59:07 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[05-Oct-2023 06:59:07 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[05-Oct-2023 06:59:07 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[05-Oct-2023 06:59:07 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[05-Oct-2023 06:59:07 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[05-Oct-2023 07:38:07 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[05-Oct-2023 07:45:24 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[05-Oct-2023 08:54:49 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[05-Oct-2023 08:55:19 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[05-Oct-2023 08:55:19 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[05-Oct-2023 08:55:19 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[05-Oct-2023 08:55:19 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[05-Oct-2023 09:06:00 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[05-Oct-2023 09:06:00 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[05-Oct-2023 09:06:00 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[05-Oct-2023 09:06:00 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[05-Oct-2023 13:13:40 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 07:14:44 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 07:14:44 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 07:14:44 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[06-Oct-2023 07:14:44 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[06-Oct-2023 07:14:44 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[06-Oct-2023 07:14:44 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[06-Oct-2023 07:14:44 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[06-Oct-2023 07:14:44 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[06-Oct-2023 08:26:30 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 10:12:09 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 10:12:33 America/Bogota] PHP Warning:  unlink(../../documentos/permisos/): Is a directory in /home/masterqu/public_html/subdominios/intranet/application/permisos/permisos.controller.php on line 371
+[06-Oct-2023 10:13:05 America/Bogota] PHP Warning:  unlink(../../documentos/permisos/): Is a directory in /home/masterqu/public_html/subdominios/intranet/application/permisos/permisos.controller.php on line 371
+[06-Oct-2023 10:13:11 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 10:57:39 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 10:57:42 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 12:07:56 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 12:08:03 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 12:08:18 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 12:27:35 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 13:17:11 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 13:17:11 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 13:17:11 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[06-Oct-2023 13:17:11 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[06-Oct-2023 13:17:11 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[06-Oct-2023 13:17:11 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[06-Oct-2023 13:17:11 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[06-Oct-2023 13:17:11 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[06-Oct-2023 13:21:01 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 13:21:03 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 15:23:08 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 15:23:08 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[06-Oct-2023 15:23:08 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[06-Oct-2023 15:23:08 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[06-Oct-2023 15:23:08 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[06-Oct-2023 15:23:08 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[06-Oct-2023 15:23:08 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[06-Oct-2023 15:23:08 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[09-Oct-2023 07:00:53 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[09-Oct-2023 07:00:53 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[09-Oct-2023 07:00:53 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[09-Oct-2023 07:00:53 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[09-Oct-2023 07:10:48 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[09-Oct-2023 07:10:48 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[09-Oct-2023 07:10:48 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[09-Oct-2023 07:10:48 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[09-Oct-2023 07:10:48 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[09-Oct-2023 07:10:48 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[09-Oct-2023 07:10:48 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[09-Oct-2023 07:10:48 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[09-Oct-2023 08:32:45 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[09-Oct-2023 08:32:45 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[09-Oct-2023 08:32:45 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[09-Oct-2023 08:32:45 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[09-Oct-2023 08:32:45 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[09-Oct-2023 08:32:45 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[09-Oct-2023 08:32:45 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[09-Oct-2023 08:32:45 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[09-Oct-2023 08:38:20 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[09-Oct-2023 10:21:03 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[09-Oct-2023 10:55:30 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[09-Oct-2023 10:55:32 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[10-Oct-2023 07:07:02 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[10-Oct-2023 07:07:02 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[10-Oct-2023 07:07:02 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[10-Oct-2023 07:07:02 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[10-Oct-2023 07:07:02 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[10-Oct-2023 07:07:02 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[10-Oct-2023 07:07:02 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[10-Oct-2023 07:07:02 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[10-Oct-2023 07:07:58 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[10-Oct-2023 07:07:58 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[10-Oct-2023 07:07:58 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[10-Oct-2023 07:07:58 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[10-Oct-2023 07:07:58 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[10-Oct-2023 07:07:58 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[10-Oct-2023 07:07:58 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[10-Oct-2023 07:07:58 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[10-Oct-2023 10:23:38 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[10-Oct-2023 10:23:41 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[10-Oct-2023 10:23:43 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[10-Oct-2023 16:27:12 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[10-Oct-2023 16:37:02 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[10-Oct-2023 16:37:05 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 07:12:24 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 07:12:24 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[11-Oct-2023 07:12:24 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[11-Oct-2023 07:12:24 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[11-Oct-2023 07:12:24 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 07:12:24 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[11-Oct-2023 07:12:24 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[11-Oct-2023 07:12:24 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[11-Oct-2023 07:12:25 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 07:12:25 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 07:12:25 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[11-Oct-2023 07:12:25 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[11-Oct-2023 07:12:25 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[11-Oct-2023 07:12:25 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[11-Oct-2023 07:12:25 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[11-Oct-2023 07:12:25 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[11-Oct-2023 08:15:52 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 09:14:51 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 09:15:03 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 09:15:45 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 09:16:33 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 09:16:59 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 13:37:05 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 13:37:05 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[11-Oct-2023 13:37:05 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[11-Oct-2023 13:37:05 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[11-Oct-2023 13:37:16 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[11-Oct-2023 13:37:36 America/Bogota] PHP Warning:  unlink(../../documentos/permisos/): Is a directory in /home/masterqu/public_html/subdominios/intranet/application/permisos/permisos.controller.php on line 371
+[12-Oct-2023 06:55:05 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Oct-2023 06:55:05 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Oct-2023 06:55:05 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[12-Oct-2023 06:55:05 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[12-Oct-2023 06:55:05 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[12-Oct-2023 06:55:05 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[12-Oct-2023 06:55:05 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[12-Oct-2023 06:55:05 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[12-Oct-2023 08:42:56 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Oct-2023 08:43:05 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Oct-2023 09:13:23 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[12-Oct-2023 15:01:57 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[13-Oct-2023 11:40:16 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[13-Oct-2023 11:40:16 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[13-Oct-2023 11:40:16 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[13-Oct-2023 11:40:16 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[13-Oct-2023 15:31:31 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[13-Oct-2023 15:31:31 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[13-Oct-2023 15:31:31 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[13-Oct-2023 15:31:31 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[13-Oct-2023 15:31:58 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[16-Oct-2023 21:48:57 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[16-Oct-2023 21:49:00 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[18-Oct-2023 10:12:32 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[18-Oct-2023 12:03:20 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[18-Oct-2023 12:03:20 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[18-Oct-2023 12:03:20 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[18-Oct-2023 12:03:20 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[18-Oct-2023 12:03:47 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[18-Oct-2023 12:03:59 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[19-Oct-2023 10:19:49 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[19-Oct-2023 10:19:52 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Oct-2023 07:29:16 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Oct-2023 07:29:16 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[20-Oct-2023 07:29:16 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[20-Oct-2023 07:29:16 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[20-Oct-2023 13:59:32 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Oct-2023 14:41:48 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Oct-2023 14:41:49 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Oct-2023 14:42:09 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Oct-2023 14:43:03 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Oct-2023 14:43:05 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[20-Oct-2023 15:10:29 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[23-Oct-2023 08:23:26 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[23-Oct-2023 08:23:28 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[23-Oct-2023 09:25:12 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[23-Oct-2023 09:26:20 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[23-Oct-2023 10:17:06 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[23-Oct-2023 15:19:43 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[23-Oct-2023 15:19:43 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[23-Oct-2023 15:19:43 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[23-Oct-2023 15:19:43 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[23-Oct-2023 15:20:14 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[23-Oct-2023 15:25:00 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[24-Oct-2023 09:00:03 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[24-Oct-2023 09:00:03 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[24-Oct-2023 09:00:03 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[24-Oct-2023 09:00:03 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[24-Oct-2023 11:02:38 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[24-Oct-2023 11:02:38 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[24-Oct-2023 11:02:38 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[24-Oct-2023 11:02:38 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[24-Oct-2023 14:59:57 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[24-Oct-2023 14:59:57 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[24-Oct-2023 14:59:57 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[24-Oct-2023 14:59:57 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[24-Oct-2023 15:07:21 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Oct-2023 10:56:08 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Oct-2023 10:56:14 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Oct-2023 10:57:30 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Oct-2023 11:16:06 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Oct-2023 11:16:06 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[25-Oct-2023 11:16:06 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[25-Oct-2023 11:16:06 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[25-Oct-2023 11:16:13 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Oct-2023 11:17:26 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Oct-2023 11:17:28 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[25-Oct-2023 11:30:22 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[26-Oct-2023 07:59:16 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[26-Oct-2023 07:59:23 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[26-Oct-2023 14:30:15 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Oct-2023 07:17:25 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Oct-2023 13:13:06 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Oct-2023 13:51:51 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Oct-2023 13:51:51 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[27-Oct-2023 13:51:51 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[27-Oct-2023 13:51:51 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[27-Oct-2023 13:52:02 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Oct-2023 14:09:27 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Oct-2023 14:09:27 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[27-Oct-2023 14:09:27 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[27-Oct-2023 14:09:27 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[27-Oct-2023 14:31:50 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[30-Oct-2023 07:00:51 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[30-Oct-2023 07:00:51 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[30-Oct-2023 07:00:51 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[30-Oct-2023 07:00:51 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/permisos/index.php(26): require()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12

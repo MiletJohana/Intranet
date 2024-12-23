@@ -1,0 +1,36 @@
+[09-Dec-2024 08:13:26 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_sol' cannot be null in /home/masterqu/subdominios/INTRANET/application/solicitudInven/solicitud.controller.php:320
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/solicitudInven/solicitud.controller.php(320): PDOStatement->execute()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/solicitudInven/solicitud.controller.php on line 320
+[12-Dec-2024 10:43:48 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_sol' cannot be null in /home/masterqu/subdominios/INTRANET/application/solicitudInven/solicitud.controller.php:320
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/solicitudInven/solicitud.controller.php(320): PDOStatement->execute()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/solicitudInven/solicitud.controller.php on line 320
+[12-Dec-2024 11:34:44 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[12-Dec-2024 11:34:44 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[12-Dec-2024 11:34:44 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/solicitudInven/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[12-Dec-2024 11:35:01 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_sol' cannot be null in /home/masterqu/subdominios/INTRANET/application/solicitudInven/solicitud.controller.php:320
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/solicitudInven/solicitud.controller.php(320): PDOStatement->execute()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/solicitudInven/solicitud.controller.php on line 320
+[12-Dec-2024 12:07:50 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[12-Dec-2024 12:07:50 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[12-Dec-2024 12:07:50 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/solicitudInven/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[12-Dec-2024 12:08:13 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_sol' cannot be null in /home/masterqu/subdominios/INTRANET/application/solicitudInven/solicitud.controller.php:320
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/solicitudInven/solicitud.controller.php(320): PDOStatement->execute()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/solicitudInven/solicitud.controller.php on line 320

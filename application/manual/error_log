@@ -1,0 +1,106 @@
+[11-Sep-2023 13:50:16 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[13-Sep-2023 11:04:34 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[14-Sep-2023 08:40:06 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[26-Sep-2023 10:54:40 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Sep-2023 08:26:21 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Sep-2023 08:26:21 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[27-Sep-2023 08:26:21 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[27-Sep-2023 08:26:21 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/manual/index.php(26): include()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12
+[04-Oct-2023 20:09:32 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Oct-2023 07:16:57 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Oct-2023 10:12:10 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Oct-2023 10:31:16 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Oct-2023 13:13:13 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[29-Oct-2023 06:54:59 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[05-Mar-2024 13:00:02 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/subdominios/INTRANET/resources/template/head.php on line 20
+[05-Mar-2024 13:00:02 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[05-Mar-2024 13:00:02 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY p.padre' at line 4 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:10
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(10): PDO->query('SELECT p.padre ...')
+#1 /home/masterqu/subdominios/INTRANET/application/manual/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 10
+[26-Mar-2024 12:26:06 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/subdominios/INTRANET/resources/template/head.php on line 20
+[26-Mar-2024 12:26:06 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[26-Mar-2024 12:26:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY p.padre' at line 4 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:10
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(10): PDO->query('SELECT p.padre ...')
+#1 /home/masterqu/subdominios/INTRANET/application/manual/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 10
+[19-Apr-2024 11:06:33 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/subdominios/INTRANET/resources/template/head.php on line 20
+[19-Apr-2024 11:06:33 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[19-Apr-2024 11:06:33 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY p.padre' at line 4 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:10
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(10): PDO->query('SELECT p.padre ...')
+#1 /home/masterqu/subdominios/INTRANET/application/manual/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 10
+[19-Apr-2024 13:12:54 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/subdominios/INTRANET/resources/template/head.php on line 20
+[19-Apr-2024 13:12:54 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[19-Apr-2024 13:12:54 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY p.padre' at line 4 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:10
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(10): PDO->query('SELECT p.padre ...')
+#1 /home/masterqu/subdominios/INTRANET/application/manual/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 10
+[07-May-2024 10:05:56 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[07-May-2024 10:05:56 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[07-May-2024 10:05:56 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:21
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(21): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/manual/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 21
+[23-Jul-2024 15:42:15 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[23-Jul-2024 15:42:15 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[23-Jul-2024 15:42:15 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:21
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(21): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/manual/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 21
+[25-Aug-2024 12:40:50 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[25-Aug-2024 12:40:50 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[25-Aug-2024 12:40:50 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:21
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(21): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/manual/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 21
+[09-Oct-2024 09:06:33 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 15
+[09-Oct-2024 09:06:33 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 39
+[09-Oct-2024 09:06:33 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 9 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:41
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(41): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/manual/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 41
+[06-Dec-2024 08:49:36 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[06-Dec-2024 08:49:36 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[06-Dec-2024 08:49:36 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/manual/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[11-Dec-2024 10:12:55 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[11-Dec-2024 10:12:55 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[11-Dec-2024 10:12:55 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/manual/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20
+[12-Dec-2024 17:32:19 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[12-Dec-2024 17:32:19 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 19
+[12-Dec-2024 17:32:19 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 5 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:20
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(20): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/manual/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 20

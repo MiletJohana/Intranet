@@ -1,0 +1,316 @@
+.TableDocumentDetail {
+    border-spacing: 0;
+    padding: 0;
+    width: 94%;
+    color: #000;
+    border: 1px solid #e4e4e4;
+    margin: 0px 0px 0px 20px;
+}
+
+.TableDocumentDetail tr:nth-child(even) {
+    background-color: rgb(255, 255, 255);
+}
+
+.TableDocumentDetail thead th {
+    /*ItemHeader*/
+    font-weight: bold;
+    text-align: center;
+    font-size: 12px;
+    /*white-space: nowrap;
+            padItem*/
+    padding: 5px;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    background-color: #717171;
+}
+/*Aplica a todas las celdas, excepto la ultima*/
+
+.TableDocumentDetail tbody tr td {
+    /*padItem*/
+    padding: 5px;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+/*Aplica para la ultima celda*/
+
+.TableDocumentDetail tbody tr td:last-child {
+    /*PadColumnFinal*/
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+    border-right: none !important;
+}
+
+.TableDocumentDetail thead th:last-child {
+    /*PadColumnFinal*/
+    border-right: none !important;
+}
+/*Aplica para la ultima celda de la ultima fila*/
+
+.TableDocumentDetail tbody tr:last-child td:last-child {
+    /*Pad*/
+    padding: 5px;
+}
+/*Aplica para la ultima fila*/
+
+.TableDocumentDetail tbody tr:last-child {
+    /*PadItemFinal*/
+    padding: 5px;
+    border-right: 1px solid #ccc;
+    border-bottom: none !important;
+}
+/*Aplica para la ultima fila, elimina el border inferior*/
+
+.TableDocumentDetail tbody tr:last-child td {
+    border-bottom: none !important;
+}
+/*El operador >, (mayor que) que obtiene el hijo directo, al crear el archivo codifica lo cual no lo toma el estilo.*/
+
+.TableDocumentDetail tbody td tr:last-child,
+.TableDocumentDetail tbody td table td,
+.TableDocumentDetail tbody td tr:last-child td:last-child {
+    padding: 1px !important;
+    border-right: none !important;
+    border-bottom: none !important;
+}
+
+@charset "UTF-8";
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.invoice-container {
+    padding: 0px !important;
+    margin: 0px auto !important;
+    position: static !important;
+    -webkit-box-shadow: none !important;
+    z-index: 0;
+    
+}
+
+.container-invoice {
+    width: 944px;
+    margin: 0 0;
+}
+
+.rounded-container {
+    -o-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.UserDetails {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000;
+    font-weight: normal;
+    float: left;
+    text-align: center;
+}
+
+.CustomerDetails {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000;
+    font-weight: normal;
+    float: right;
+    text-align: right;
+    margin-right: 0px;
+    margin-top: 10px;
+    width: 304px;
+}
+
+.CustomerDetails3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000;
+    font-weight: normal;
+    float: left;
+    text-align: left;
+    width: 597px;
+    border: 1px solid #ccc;
+}
+
+.CustomerDetails4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000;
+    font-weight: normal;
+    float: right;
+    text-align: center;
+    width: 304px;
+    border: 1px solid #ccc;
+    padding: 0px;
+}
+
+.ItemHeader {
+    background-color: #fff;
+    font-weight: bold;
+    text-align: center;
+    font-size: 12px;
+}
+
+.ItemHeader2 {
+    background-color: #E3E3E3;
+    font-weight: bold;
+    text-align: center;
+}
+
+.TableITemA {
+    border-right: 1px solid #ccc;
+}
+
+.TableITemB {
+    border-bottom: 1px solid #ccc;
+}
+
+.TableITemC {
+    border-left: 1px solid #ccc;
+}
+
+.TableITemD {
+    border-top: 1px solid #ccc;
+}
+
+.TableDetails {
+    color: #000;
+    border: 1px solid #ccc;
+}
+
+.Pad {
+    padding: 5px;
+}
+
+.Pad1 {
+    padding: 1px;
+}
+
+.Pad3 {
+    padding: 3px;
+}
+
+.Pad5 {
+    padding: 15px;
+    padding-bottom: 0px;
+}
+
+.Pad6 {
+    padding: 15px;
+    padding-top: 0px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+.Padtop {
+    padding-top: 10px;
+    padding-bottom: 14px;
+}
+
+.Padtb {
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.Container {
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    min-height: 180px;
+}
+
+.Total {
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    min-height: 100px;
+}
+
+.invcomments {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    color: #000;
+    padding: 80px 20px 21px;
+    text-align: left;
+}
+
+.invfooter {
+    background-color: #E3E3E3;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.invfooter .text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 7pt;
+    color: #333;
+    text-align: center;
+    padding: 5px;
+}
+
+.padItem {
+    padding: 5px;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.PadItemFinal {
+    padding: 5px;
+    border-right: 1px solid #ccc;
+}
+
+.PadColumnFinal {
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+.Numeric {
+    text-align: right;
+    font-size: 12px;
+}
+
+.Alphanumeric {
+    font-size: 12px;
+}
+
+.AlternateItemAlphaNumeric {
+    background-color: whitesmoke;
+}
+
+.mainColumn {
+    width: 150px;
+    text-align: center;
+}
+
+.invoice-box {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.invoice-container-left {
+    width: 99%;
+    height: inherit;
+    display: table-cell;
+}
+
+.invoice-container-right {
+    width: 1%;
+    height: inherit;
+    vertical-align: middle;
+    display: table-cell;
+}
+.flotante {
+    display:scroll;
+        position:fixed;
+        bottom:14px;
+        right:64px;
+}

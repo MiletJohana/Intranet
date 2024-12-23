@@ -1,0 +1,5 @@
+[26-Nov-2024 10:38:41 America/Bogota] PHP Warning:  Undefined array key "id_are" in /home/masterqu/subdominios/INTRANET/application/serverside/serversideCorrespondencia4.php on line 56
+[26-Nov-2024 10:38:41 America/Bogota] PHP Warning:  Undefined array key "id_usu" in /home/masterqu/subdominios/INTRANET/application/serverside/serversideCorrespondencia4.php on line 59
+[26-Nov-2024 10:38:41 America/Bogota] PHP Warning:  Undefined array key "empleado_mq" in /home/masterqu/subdominios/INTRANET/application/serverside/serversideCorrespondencia4.php on line 61
+[26-Nov-2024 10:38:41 America/Bogota] PHP Warning:  Undefined array key "id_usu" in /home/masterqu/subdominios/INTRANET/application/serverside/serversideCorrespondencia4.php on line 64
+[16-Dec-2024 12:33:27 America/Bogota] PHP Warning:  Undefined array key "id" in /home/masterqu/subdominios/INTRANET/application/serverside/serversideCertificados.php on line 21

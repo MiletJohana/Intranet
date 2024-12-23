@@ -1,0 +1,115 @@
+[27-Oct-2023 09:17:40 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[23-Jan-2024 16:17:40 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php on line 12
+[23-Jan-2024 16:17:40 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php on line 28
+[23-Jan-2024 16:17:40 America/Bogota] PHP Notice:  Undefined variable: rC2 in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 223
+[23-Jan-2024 16:17:40 America/Bogota] PHP Notice:  Undefined variable: rC2 in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 223
+[23-Jan-2024 16:17:40 America/Bogota] PHP Notice:  Undefined variable: queryCiu21 in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 224
+[23-Jan-2024 16:17:40 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php:224
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php(48): include()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 224
+[23-Jan-2024 16:17:40 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/boton.php on line 44
+[23-Jan-2024 16:17:40 America/Bogota] PHP Notice:  Undefined index: cerrar in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/boton.php on line 45
+[23-Jan-2024 16:17:42 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php on line 12
+[23-Jan-2024 16:17:42 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php on line 28
+[23-Jan-2024 16:17:42 America/Bogota] PHP Notice:  Undefined index: action in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 322
+[23-Jan-2024 16:17:42 America/Bogota] PHP Notice:  Undefined index: com in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 399
+[23-Jan-2024 16:17:42 America/Bogota] PHP Notice:  Undefined index: id_cli in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[23-Jan-2024 16:17:42 America/Bogota] PHP Notice:  Undefined index: id_cli in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 78
+[23-Jan-2024 16:17:42 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php on line 4
+[23-Jan-2024 16:17:42 America/Bogota] PHP Notice:  Undefined index: cerrar in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/boton.php on line 3
+[23-Jan-2024 16:17:42 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php:5
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php(5): PDO->query('SELECT * from m...')
+#1 /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php(63): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php on line 5
+[23-Jan-2024 16:19:22 America/Bogota] PHP Warning:  include(): Filename cannot be empty in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabla7.php on line 60
+[23-Jan-2024 16:19:22 America/Bogota] PHP Warning:  include(): Filename cannot be empty in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabla7.php on line 60
+[23-Jan-2024 16:19:22 America/Bogota] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabla7.php on line 60
+[24-Jan-2024 08:37:18 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php on line 12
+[24-Jan-2024 08:37:18 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php on line 28
+[24-Jan-2024 08:37:18 America/Bogota] PHP Notice:  Undefined index: cerrar in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/boton.php on line 3
+[24-Jan-2024 08:37:18 America/Bogota] PHP Notice:  Undefined index: action in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 322
+[24-Jan-2024 08:37:18 America/Bogota] PHP Notice:  Undefined index: com in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 399
+[24-Jan-2024 08:37:18 America/Bogota] PHP Notice:  Undefined index: id_cli in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[24-Jan-2024 08:37:18 America/Bogota] PHP Notice:  Undefined index: id_cli in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 78
+[24-Jan-2024 08:37:18 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php on line 4
+[24-Jan-2024 08:37:18 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php:5
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php(5): PDO->query('SELECT * from m...')
+#1 /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php(63): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php on line 5
+[24-Jan-2024 08:38:25 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php on line 12
+[24-Jan-2024 08:38:25 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php on line 28
+[24-Jan-2024 08:38:25 America/Bogota] PHP Notice:  Undefined index: action in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 322
+[24-Jan-2024 08:38:25 America/Bogota] PHP Notice:  Undefined index: com in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 399
+[24-Jan-2024 08:38:25 America/Bogota] PHP Notice:  Undefined index: id_cli in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[24-Jan-2024 08:38:25 America/Bogota] PHP Notice:  Undefined index: id_cli in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 78
+[24-Jan-2024 08:38:25 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php on line 4
+[24-Jan-2024 08:38:25 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php:5
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php(5): PDO->query('SELECT * from m...')
+#1 /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php(63): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php on line 5
+[24-Jan-2024 08:38:25 America/Bogota] PHP Notice:  Undefined index: cerrar in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/boton.php on line 3
+[24-Jan-2024 08:39:14 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php on line 12
+[24-Jan-2024 08:39:14 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php on line 28
+[24-Jan-2024 08:39:14 America/Bogota] PHP Notice:  Undefined index: action in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 322
+[24-Jan-2024 08:39:14 America/Bogota] PHP Notice:  Undefined index: com in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 399
+[24-Jan-2024 08:39:14 America/Bogota] PHP Notice:  Undefined index: id_cli in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 55
+[24-Jan-2024 08:39:14 America/Bogota] PHP Notice:  Undefined index: id_cli in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 78
+[24-Jan-2024 08:39:14 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php on line 4
+[24-Jan-2024 08:39:14 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php:5
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php(5): PDO->query('SELECT * from m...')
+#1 /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php(63): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php on line 5
+[24-Jan-2024 08:39:14 America/Bogota] PHP Notice:  Undefined index: cerrar in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/boton.php on line 3
+[24-Jan-2024 08:40:02 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/boton.php on line 44
+[24-Jan-2024 08:40:02 America/Bogota] PHP Notice:  Undefined index: cerrar in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/boton.php on line 45
+[24-Jan-2024 08:40:02 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php on line 12
+[24-Jan-2024 08:40:02 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php on line 28
+[24-Jan-2024 08:40:03 America/Bogota] PHP Notice:  Undefined variable: rC2 in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 223
+[24-Jan-2024 08:40:03 America/Bogota] PHP Notice:  Undefined variable: rC2 in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 223
+[24-Jan-2024 08:40:03 America/Bogota] PHP Notice:  Undefined variable: queryCiu21 in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 224
+[24-Jan-2024 08:40:03 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php:224
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php(48): include()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 224
+[30-Jan-2024 14:35:52 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LO' at line 1 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:28
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(28): PDO->query('SELECT * FROM i...')
+#1 /home/masterqu/subdominios/INTRANET/application/cotizadorv2/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 28
+[30-Jan-2024 14:35:57 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LO' at line 1 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:28
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(28): PDO->query('SELECT * FROM i...')
+#1 /home/masterqu/subdominios/INTRANET/application/cotizadorv2/index.php(26): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 28
+[12-Apr-2024 07:46:45 America/Bogota] PHP Warning:  include(): Filename cannot be empty in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabla7.php on line 60
+[12-Apr-2024 07:46:45 America/Bogota] PHP Warning:  include(): Filename cannot be empty in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabla7.php on line 60
+[12-Apr-2024 07:46:45 America/Bogota] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabla7.php on line 60
+[12-Apr-2024 07:46:49 America/Bogota] PHP Warning:  include(): Filename cannot be empty in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabla7.php on line 60
+[12-Apr-2024 07:46:49 America/Bogota] PHP Warning:  include(): Filename cannot be empty in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabla7.php on line 60
+[12-Apr-2024 07:46:49 America/Bogota] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabla7.php on line 60
+[12-Apr-2024 07:46:56 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php on line 12
+[12-Apr-2024 07:46:56 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php on line 28
+[12-Apr-2024 07:46:56 America/Bogota] PHP Notice:  Undefined index: cerrar in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/boton.php on line 3
+[12-Apr-2024 07:46:56 America/Bogota] PHP Notice:  Undefined index: action in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 302
+[12-Apr-2024 07:46:56 America/Bogota] PHP Notice:  Undefined index: id_cli in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 38
+[12-Apr-2024 07:46:56 America/Bogota] PHP Notice:  Undefined index: id_cli in /home/masterqu/subdominios/INTRANET/application/contactos/form.php on line 63
+[12-Apr-2024 07:46:56 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php on line 4
+[12-Apr-2024 07:46:56 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php:5
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php(5): PDO->query('SELECT * from m...')
+#1 /home/masterqu/subdominios/INTRANET/application/cotizadorv2/tabsForm.php(63): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorv2/form6.php on line 5

@@ -1,0 +1,1025 @@
+[18-Apr-2024 10:37:09 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 109
+[18-Apr-2024 10:37:09 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 120
+[18-Apr-2024 10:37:09 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 131
+[18-Apr-2024 10:39:23 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 109
+[18-Apr-2024 10:39:23 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 120
+[18-Apr-2024 10:39:23 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 131
+[18-Apr-2024 10:40:15 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 109
+[18-Apr-2024 10:40:15 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 120
+[18-Apr-2024 10:40:15 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 131
+[18-Apr-2024 10:40:40 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 109
+[18-Apr-2024 10:40:40 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 120
+[18-Apr-2024 10:40:40 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 131
+[18-Apr-2024 11:01:05 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 109
+[18-Apr-2024 11:01:05 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 120
+[18-Apr-2024 11:01:05 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 131
+[18-Apr-2024 11:08:13 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 109
+[18-Apr-2024 11:08:13 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 120
+[18-Apr-2024 11:08:13 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 131
+[18-Apr-2024 11:09:03 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 109
+[18-Apr-2024 11:09:03 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 120
+[18-Apr-2024 11:09:03 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 131
+[18-Apr-2024 11:10:31 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 109
+[18-Apr-2024 11:10:31 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 120
+[18-Apr-2024 11:10:31 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 131
+[18-Apr-2024 11:10:46 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 109
+[18-Apr-2024 11:10:46 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 120
+[18-Apr-2024 11:10:46 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 131
+[18-Apr-2024 11:10:54 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 109
+[18-Apr-2024 11:10:54 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 120
+[18-Apr-2024 11:10:54 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 131
+[18-Apr-2024 11:17:52 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[18-Apr-2024 11:17:52 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 90
+[18-Apr-2024 11:17:52 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[18-Apr-2024 11:17:52 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[18-Apr-2024 11:19:25 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[18-Apr-2024 11:19:25 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 90
+[18-Apr-2024 11:19:25 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[18-Apr-2024 11:19:25 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[18-Apr-2024 11:58:09 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 109
+[18-Apr-2024 11:58:09 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 120
+[18-Apr-2024 11:58:09 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 131
+[19-Apr-2024 07:57:04 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 18
+[19-Apr-2024 07:57:04 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 48
+[19-Apr-2024 07:57:04 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 59
+[19-Apr-2024 07:57:04 America/Bogota] PHP Notice:  Undefined index: car_cont0 in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 92
+[19-Apr-2024 08:09:07 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 109
+[19-Apr-2024 08:09:07 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 120
+[19-Apr-2024 08:09:07 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 131
+[19-Apr-2024 08:09:44 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 109
+[19-Apr-2024 08:09:44 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 120
+[19-Apr-2024 08:09:44 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 131
+[19-Apr-2024 08:10:21 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 109
+[19-Apr-2024 08:10:21 America/Bogota] PHP Warning:  copy(../../documentos/clientes/logos/cartaPropiedad.jpg): failed to open stream: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 113
+[19-Apr-2024 08:10:21 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 120
+[19-Apr-2024 08:10:34 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[19-Apr-2024 08:10:34 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[19-Apr-2024 08:10:34 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[19-Apr-2024 08:10:34 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[19-Apr-2024 08:10:40 America/Bogota] PHP Notice:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 240
+[19-Apr-2024 08:10:40 America/Bogota] PHP Notice:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 240
+[19-Apr-2024 08:41:53 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 113
+[19-Apr-2024 08:41:53 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 124
+[19-Apr-2024 08:41:53 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 135
+[19-Apr-2024 08:43:42 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 18
+[19-Apr-2024 08:43:42 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 50
+[19-Apr-2024 08:43:42 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 61
+[19-Apr-2024 08:43:42 America/Bogota] PHP Notice:  Undefined index: car_cont0 in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 96
+[19-Apr-2024 08:55:42 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 112
+[19-Apr-2024 08:55:42 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 134
+[19-Apr-2024 08:55:51 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[19-Apr-2024 08:55:51 America/Bogota] PHP Notice:  Undefined index: tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[19-Apr-2024 08:56:05 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 112
+[19-Apr-2024 08:56:05 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 134
+[19-Apr-2024 08:56:05 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+            id_cat = 2, 
+            id_act = 29, 
+            tel_cli = '1233' at line 5 in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php:139
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php(139): PDO->query('UPDATE mq_clien...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 139
+[19-Apr-2024 08:56:48 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 112
+[19-Apr-2024 08:56:48 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 134
+[19-Apr-2024 08:59:30 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[19-Apr-2024 08:59:30 America/Bogota] PHP Notice:  Undefined index: tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[19-Apr-2024 08:59:33 America/Bogota] PHP Warning:  opendir(../../documentos/clientes/logos/): failed to open dir: No such file or directory in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 112
+[19-Apr-2024 08:59:33 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 134
+[19-Apr-2024 08:59:42 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[19-Apr-2024 08:59:42 America/Bogota] PHP Notice:  Undefined index: tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[19-Apr-2024 09:01:33 America/Bogota] PHP Notice:  Undefined index: id_tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[19-Apr-2024 09:01:33 America/Bogota] PHP Notice:  Undefined index: tipo in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[19-Apr-2024 09:09:55 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[19-Apr-2024 09:09:56 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[19-Apr-2024 09:09:56 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[19-Apr-2024 09:09:56 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[19-Apr-2024 09:14:28 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php:66
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php(66): PDO->query('INSERT INTO mq_...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 66
+[19-Apr-2024 09:14:57 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php:66
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php(66): PDO->query('INSERT INTO mq_...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 66
+[19-Apr-2024 09:15:08 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php:66
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php(66): PDO->query('INSERT INTO mq_...')
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 66
+[19-Apr-2024 09:16:47 America/Bogota] PHP Notice:  Undefined index: car_cont0 in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[19-Apr-2024 09:20:57 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[19-Apr-2024 09:20:57 America/Bogota] PHP Notice:  Undefined index: car_cont0 in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[19-Apr-2024 09:21:21 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[19-Apr-2024 09:21:21 America/Bogota] PHP Notice:  Undefined index: car_cont0 in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[19-Apr-2024 09:23:18 America/Bogota] PHP Notice:  Undefined variable: log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[19-Apr-2024 09:23:18 America/Bogota] PHP Notice:  Undefined index: car_cont0 in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[19-Apr-2024 09:23:30 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[19-Apr-2024 09:23:30 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[19-Apr-2024 09:23:30 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[19-Apr-2024 09:23:30 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[19-Apr-2024 14:31:47 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[19-Apr-2024 14:31:47 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[19-Apr-2024 14:31:47 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[19-Apr-2024 14:31:47 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[19-Apr-2024 14:31:49 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[19-Apr-2024 14:31:49 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[19-Apr-2024 14:31:49 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[19-Apr-2024 14:31:49 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[19-Apr-2024 14:32:23 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[19-Apr-2024 14:32:23 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[19-Apr-2024 14:32:23 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[19-Apr-2024 14:32:23 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[23-Apr-2024 08:07:05 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[23-Apr-2024 08:07:05 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[23-Apr-2024 08:07:05 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[23-Apr-2024 08:07:05 America/Bogota] PHP Notice:  Undefined index: table in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[23-Apr-2024 08:07:05 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'masterqu_intra2.seg_ingreso' doesn't exist in /home/masterqu/subdominios/INTRANET/application/clientes2/correspondencia.php:55
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes2/correspondencia.php(55): PDO->query('SELECT * FROM s...')
+#1 /home/masterqu/subdominios/INTRANET/application/clientes2/perfil.php(172): include('/home/masterqu/...')
+#2 /home/masterqu/subdominios/INTRANET/application/clientes2/index.php(35): include('/home/masterqu/...')
+#3 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/correspondencia.php on line 55
+[23-Apr-2024 08:29:25 America/Bogota] PHP Notice:  Undefined variable: rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[23-Apr-2024 08:29:25 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[24-Apr-2024 07:53:27 America/Bogota] PHP Notice:  Undefined variable: rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[24-Apr-2024 07:53:27 America/Bogota] PHP Notice:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[01-May-2024 11:09:20 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 216
+[01-May-2024 11:09:20 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 216
+[01-May-2024 11:09:20 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[01-May-2024 11:09:20 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[01-May-2024 11:09:31 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[01-May-2024 11:09:31 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[01-May-2024 11:09:34 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[01-May-2024 11:11:40 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 216
+[01-May-2024 11:11:40 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 216
+[01-May-2024 11:11:40 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[01-May-2024 11:11:40 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[01-May-2024 11:25:32 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[01-May-2024 11:25:32 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[01-May-2024 11:26:10 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[01-May-2024 11:26:10 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[02-May-2024 12:17:23 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[02-May-2024 12:17:23 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[02-May-2024 12:17:55 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[02-May-2024 12:17:55 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[02-May-2024 12:17:55 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[02-May-2024 12:17:55 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[02-May-2024 14:32:22 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[02-May-2024 15:42:29 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[02-May-2024 15:42:29 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[02-May-2024 15:42:29 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[02-May-2024 15:42:29 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[02-May-2024 15:42:40 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[02-May-2024 15:42:40 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[02-May-2024 15:42:40 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[02-May-2024 15:42:40 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[02-May-2024 15:42:51 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[02-May-2024 15:42:51 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[02-May-2024 15:42:57 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[02-May-2024 15:42:57 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[03-May-2024 12:17:08 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[03-May-2024 12:17:08 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[07-May-2024 11:50:25 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[07-May-2024 11:50:25 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[08-May-2024 07:55:58 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[08-May-2024 07:55:58 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[08-May-2024 07:55:58 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[08-May-2024 07:55:58 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[08-May-2024 14:15:32 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[08-May-2024 14:15:32 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[09-May-2024 16:08:45 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[09-May-2024 16:08:45 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[10-May-2024 09:02:09 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 09:02:09 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 12:17:27 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[10-May-2024 12:17:27 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[10-May-2024 12:26:58 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 12:26:58 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 12:27:56 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 12:27:56 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 12:28:02 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[10-May-2024 12:34:44 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 12:34:44 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 12:34:47 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[10-May-2024 12:38:01 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[10-May-2024 12:38:01 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[10-May-2024 12:38:01 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 12:38:01 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 12:39:36 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[10-May-2024 12:40:01 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 12:40:01 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 12:40:59 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[10-May-2024 12:43:59 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 12:43:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 12:44:07 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[10-May-2024 12:50:30 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[10-May-2024 12:50:30 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[10-May-2024 14:34:17 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 14:34:17 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 14:36:10 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 14:36:10 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 16:01:33 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 16:01:33 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 16:02:23 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[10-May-2024 16:02:23 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[14-May-2024 14:22:08 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[14-May-2024 14:22:08 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[15-May-2024 09:37:36 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[15-May-2024 09:37:36 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[16-May-2024 13:37:15 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[16-May-2024 13:37:15 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[20-May-2024 09:31:25 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[20-May-2024 09:31:25 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[21-May-2024 09:03:20 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[21-May-2024 09:03:20 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[21-May-2024 09:28:20 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[21-May-2024 15:19:37 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[21-May-2024 15:19:37 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[21-May-2024 15:19:37 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[21-May-2024 15:19:37 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[22-May-2024 11:47:50 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[22-May-2024 14:55:57 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[22-May-2024 14:55:57 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[23-May-2024 10:06:49 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[23-May-2024 10:06:49 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[23-May-2024 13:35:31 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[23-May-2024 13:35:31 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[24-May-2024 12:02:35 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[24-May-2024 12:02:35 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[24-May-2024 12:02:40 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[24-May-2024 12:02:40 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[28-May-2024 10:40:29 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[28-May-2024 10:40:29 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[28-May-2024 10:40:32 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[28-May-2024 10:40:32 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[28-May-2024 10:40:32 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[28-May-2024 10:40:32 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[29-May-2024 10:16:05 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[29-May-2024 10:16:05 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[29-May-2024 10:33:45 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[29-May-2024 10:33:45 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[29-May-2024 11:08:57 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[29-May-2024 11:08:58 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[30-May-2024 13:32:00 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[30-May-2024 13:32:00 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[04-Jun-2024 08:16:44 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[04-Jun-2024 08:16:44 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[04-Jun-2024 08:16:47 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[04-Jun-2024 08:16:47 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[04-Jun-2024 08:16:47 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[04-Jun-2024 08:16:47 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[06-Jun-2024 11:31:30 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[06-Jun-2024 11:31:30 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[06-Jun-2024 12:07:16 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[06-Jun-2024 12:07:16 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[06-Jun-2024 12:07:20 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[06-Jun-2024 12:07:20 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[06-Jun-2024 12:07:20 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[06-Jun-2024 12:07:20 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[06-Jun-2024 12:13:35 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[06-Jun-2024 12:13:35 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[06-Jun-2024 12:13:42 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[06-Jun-2024 12:13:42 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[07-Jun-2024 14:42:23 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[07-Jun-2024 14:42:23 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[12-Jun-2024 07:01:11 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[12-Jun-2024 07:01:11 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[13-Jun-2024 08:55:25 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[13-Jun-2024 08:55:25 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[13-Jun-2024 08:55:25 America/Bogota] PHP Warning:  Undefined array key "car_cont1" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[13-Jun-2024 10:23:28 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[13-Jun-2024 10:23:28 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[13-Jun-2024 11:05:12 America/Bogota] PHP Warning:  Undefined array key "tip_cli" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 49
+[13-Jun-2024 11:05:12 America/Bogota] PHP Warning:  Undefined array key "id_cat" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 50
+[13-Jun-2024 11:05:12 America/Bogota] PHP Warning:  Undefined array key "id_act" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 51
+[13-Jun-2024 11:05:12 America/Bogota] PHP Warning:  Undefined array key "web_cli" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 54
+[13-Jun-2024 11:05:12 America/Bogota] PHP Warning:  Undefined array key "zip_cli" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 55
+[13-Jun-2024 11:05:12 America/Bogota] PHP Warning:  Undefined array key "hor_cli1" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 56
+[13-Jun-2024 11:05:12 America/Bogota] PHP Warning:  Undefined array key "hor_cli2" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 57
+[13-Jun-2024 11:05:12 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[13-Jun-2024 11:05:12 America/Bogota] PHP Warning:  Undefined array key "ase_com" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 61
+[13-Jun-2024 11:05:12 America/Bogota] PHP Warning:  Undefined array key "rep_sac" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 62
+[13-Jun-2024 11:05:12 America/Bogota] PHP Warning:  Undefined array key "id_act" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 64
+[13-Jun-2024 11:05:12 America/Bogota] PHP Warning:  Undefined array key "nom_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 92
+[13-Jun-2024 11:05:12 America/Bogota] PHP Warning:  Undefined array key "eml_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 93
+[13-Jun-2024 11:05:12 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[13-Jun-2024 11:05:12 America/Bogota] PHP Warning:  Undefined array key "tel_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 95
+[13-Jun-2024 13:17:21 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[13-Jun-2024 13:17:21 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[13-Jun-2024 13:17:23 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[13-Jun-2024 13:17:23 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[13-Jun-2024 13:17:23 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[13-Jun-2024 13:17:23 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[14-Jun-2024 07:46:04 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[14-Jun-2024 07:46:04 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[14-Jun-2024 08:27:03 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[14-Jun-2024 08:27:03 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[14-Jun-2024 12:45:08 America/Bogota] PHP Warning:  Undefined array key "id_ciu" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 132
+[14-Jun-2024 12:45:08 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[14-Jun-2024 16:48:20 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[14-Jun-2024 16:48:20 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[14-Jun-2024 16:48:20 America/Bogota] PHP Warning:  Undefined array key "car_cont1" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[18-Jun-2024 07:53:37 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[18-Jun-2024 07:53:37 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[18-Jun-2024 07:53:40 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[18-Jun-2024 07:53:40 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[18-Jun-2024 07:53:40 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[18-Jun-2024 07:53:40 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[18-Jun-2024 07:55:54 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[18-Jun-2024 07:55:54 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[18-Jun-2024 07:55:57 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[18-Jun-2024 07:55:57 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[18-Jun-2024 07:55:57 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[18-Jun-2024 07:55:57 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[18-Jun-2024 08:01:43 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[18-Jun-2024 08:01:43 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[18-Jun-2024 08:01:46 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[18-Jun-2024 08:01:46 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[18-Jun-2024 08:01:46 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[18-Jun-2024 08:01:46 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[18-Jun-2024 08:02:19 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[18-Jun-2024 08:02:19 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[20-Jun-2024 07:05:59 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[20-Jun-2024 07:05:59 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[20-Jun-2024 13:40:13 America/Bogota] PHP Warning:  Undefined array key "tip_cli" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 49
+[20-Jun-2024 13:40:13 America/Bogota] PHP Warning:  Undefined array key "id_cat" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 50
+[20-Jun-2024 13:40:13 America/Bogota] PHP Warning:  Undefined array key "id_act" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 51
+[20-Jun-2024 13:40:13 America/Bogota] PHP Warning:  Undefined array key "web_cli" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 54
+[20-Jun-2024 13:40:13 America/Bogota] PHP Warning:  Undefined array key "zip_cli" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 55
+[20-Jun-2024 13:40:13 America/Bogota] PHP Warning:  Undefined array key "hor_cli1" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 56
+[20-Jun-2024 13:40:13 America/Bogota] PHP Warning:  Undefined array key "hor_cli2" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 57
+[20-Jun-2024 13:40:13 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[20-Jun-2024 13:40:13 America/Bogota] PHP Warning:  Undefined array key "ase_com" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 61
+[20-Jun-2024 13:40:13 America/Bogota] PHP Warning:  Undefined array key "rep_sac" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 62
+[20-Jun-2024 13:40:13 America/Bogota] PHP Warning:  Undefined array key "id_act" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 64
+[20-Jun-2024 13:40:13 America/Bogota] PHP Warning:  Undefined array key "nom_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 92
+[20-Jun-2024 13:40:13 America/Bogota] PHP Warning:  Undefined array key "eml_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 93
+[20-Jun-2024 13:40:13 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[20-Jun-2024 13:40:13 America/Bogota] PHP Warning:  Undefined array key "tel_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 95
+[24-Jun-2024 12:00:18 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[24-Jun-2024 12:00:18 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[24-Jun-2024 14:44:22 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[25-Jun-2024 09:45:05 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php:13
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes2/form.php(13): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 13
+[25-Jun-2024 10:13:19 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php:13
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes2/form.php(13): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 13
+[25-Jun-2024 10:13:58 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[25-Jun-2024 10:13:58 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[25-Jun-2024 10:13:58 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 10:13:58 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 10:15:53 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[25-Jun-2024 10:15:53 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[25-Jun-2024 10:15:53 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 10:15:53 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 10:17:35 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[25-Jun-2024 10:17:35 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[25-Jun-2024 10:17:35 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 10:17:35 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 10:19:36 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php:13
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes2/form.php(13): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 13
+[25-Jun-2024 10:22:03 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 10:22:03 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 10:22:58 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[25-Jun-2024 10:23:22 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[25-Jun-2024 10:23:22 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[25-Jun-2024 10:23:22 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 10:23:22 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 10:23:27 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[25-Jun-2024 10:55:32 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 10:55:32 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 10:56:23 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 10:56:23 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 10:56:53 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 10:56:53 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 12:42:05 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 12:42:05 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[25-Jun-2024 12:42:08 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[25-Jun-2024 14:42:31 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[25-Jun-2024 14:42:31 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[26-Jun-2024 13:16:10 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[26-Jun-2024 13:16:10 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[26-Jun-2024 13:22:51 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[26-Jun-2024 13:22:51 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[26-Jun-2024 13:22:51 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[26-Jun-2024 13:22:51 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[26-Jun-2024 13:23:02 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[26-Jun-2024 13:23:02 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[26-Jun-2024 13:23:17 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[28-Jun-2024 16:35:43 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[28-Jun-2024 16:35:43 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[02-Jul-2024 11:48:20 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[02-Jul-2024 11:48:20 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[02-Jul-2024 14:41:41 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[02-Jul-2024 14:41:41 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[02-Jul-2024 14:41:41 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[02-Jul-2024 14:41:41 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[02-Jul-2024 14:42:32 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[02-Jul-2024 14:42:32 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[02-Jul-2024 14:42:34 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[02-Jul-2024 14:42:34 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[02-Jul-2024 14:42:34 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[02-Jul-2024 14:42:34 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[02-Jul-2024 14:44:31 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[03-Jul-2024 09:11:09 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[03-Jul-2024 09:11:09 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[03-Jul-2024 09:11:09 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[03-Jul-2024 09:11:09 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[03-Jul-2024 09:17:35 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[03-Jul-2024 09:17:35 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[03-Jul-2024 09:17:49 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[03-Jul-2024 09:41:00 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[03-Jul-2024 09:41:00 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[03-Jul-2024 12:12:06 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[03-Jul-2024 12:12:06 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[03-Jul-2024 12:12:24 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[03-Jul-2024 12:12:24 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[03-Jul-2024 14:59:36 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[03-Jul-2024 14:59:36 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[04-Jul-2024 15:20:44 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[04-Jul-2024 15:20:44 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[04-Jul-2024 15:20:46 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[04-Jul-2024 15:20:46 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[04-Jul-2024 15:20:46 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[04-Jul-2024 15:20:46 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[04-Jul-2024 15:31:13 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[04-Jul-2024 15:31:13 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[04-Jul-2024 15:31:15 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[04-Jul-2024 15:31:15 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[04-Jul-2024 15:31:15 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[04-Jul-2024 15:31:15 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[05-Jul-2024 10:24:55 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[05-Jul-2024 10:24:55 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 249
+[05-Jul-2024 10:24:55 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 272
+[05-Jul-2024 10:24:55 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 272
+[05-Jul-2024 10:24:55 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 287
+[08-Jul-2024 09:26:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= 11 AND usu_elim = 0 ORDER BY nom_usu' at line 1 in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php:74
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes2/form.php(74): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 74
+[08-Jul-2024 09:26:12 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= 11 AND usu_elim = 0 ORDER BY nom_usu' at line 1 in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php:74
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes2/form.php(74): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 74
+[08-Jul-2024 09:27:05 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[08-Jul-2024 09:27:05 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[08-Jul-2024 09:28:33 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[08-Jul-2024 09:28:33 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[08-Jul-2024 09:29:07 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[08-Jul-2024 09:29:07 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[08-Jul-2024 09:29:07 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[08-Jul-2024 09:29:07 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[08-Jul-2024 10:34:41 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[08-Jul-2024 10:34:41 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[09-Jul-2024 10:19:44 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[09-Jul-2024 10:19:44 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[09-Jul-2024 10:21:49 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[09-Jul-2024 10:21:49 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[09-Jul-2024 13:57:26 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[09-Jul-2024 13:57:26 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[09-Jul-2024 13:57:26 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[09-Jul-2024 13:57:26 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[09-Jul-2024 13:57:27 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'masterqu_intranet.seg_ingreso' doesn't exist in /home/masterqu/subdominios/INTRANET/application/clientes2/correspondencia.php:55
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes2/correspondencia.php(55): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/clientes2/perfil.php(172): include('/home/masterqu/...')
+#2 /home/masterqu/subdominios/INTRANET/application/clientes2/index.php(35): include('/home/masterqu/...')
+#3 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/correspondencia.php on line 55
+[09-Jul-2024 13:57:27 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[09-Jul-2024 13:57:27 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[09-Jul-2024 13:57:27 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[09-Jul-2024 13:57:27 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[09-Jul-2024 13:57:27 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'masterqu_intranet.seg_ingreso' doesn't exist in /home/masterqu/subdominios/INTRANET/application/clientes2/correspondencia.php:55
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes2/correspondencia.php(55): PDO->query()
+#1 /home/masterqu/subdominios/INTRANET/application/clientes2/perfil.php(172): include('/home/masterqu/...')
+#2 /home/masterqu/subdominios/INTRANET/application/clientes2/index.php(35): include('/home/masterqu/...')
+#3 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/correspondencia.php on line 55
+[09-Jul-2024 16:53:46 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[09-Jul-2024 16:53:46 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[09-Jul-2024 16:54:24 America/Bogota] PHP Warning:  Undefined array key "id_ciu" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 132
+[09-Jul-2024 16:54:24 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[10-Jul-2024 11:43:02 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[10-Jul-2024 11:43:02 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[10-Jul-2024 15:30:42 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[10-Jul-2024 15:30:42 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[10-Jul-2024 15:30:42 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[10-Jul-2024 15:30:42 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[10-Jul-2024 15:30:44 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[10-Jul-2024 15:30:44 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[10-Jul-2024 15:30:44 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[10-Jul-2024 15:30:44 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[10-Jul-2024 15:31:05 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[10-Jul-2024 15:31:05 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[10-Jul-2024 15:43:50 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[10-Jul-2024 15:43:50 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[10-Jul-2024 15:43:50 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[10-Jul-2024 15:43:50 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[10-Jul-2024 15:43:51 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[10-Jul-2024 15:43:51 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[10-Jul-2024 15:43:51 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[10-Jul-2024 15:43:51 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[10-Jul-2024 15:44:04 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[10-Jul-2024 15:44:04 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[10-Jul-2024 15:45:37 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[10-Jul-2024 15:45:37 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[10-Jul-2024 16:00:23 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[10-Jul-2024 16:00:23 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[10-Jul-2024 16:00:25 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[10-Jul-2024 16:00:25 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[10-Jul-2024 16:00:25 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[10-Jul-2024 16:00:25 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[11-Jul-2024 12:14:55 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[11-Jul-2024 12:14:55 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[11-Jul-2024 12:14:55 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[11-Jul-2024 12:14:55 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[11-Jul-2024 12:15:47 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[12-Jul-2024 07:38:36 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[12-Jul-2024 07:38:36 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[16-Jul-2024 09:24:30 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[16-Jul-2024 09:24:30 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[16-Jul-2024 15:41:00 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[16-Jul-2024 15:41:00 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[16-Jul-2024 16:21:40 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[16-Jul-2024 16:21:40 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[16-Jul-2024 16:21:40 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[16-Jul-2024 16:21:40 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[16-Jul-2024 16:21:42 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[16-Jul-2024 16:21:42 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[16-Jul-2024 16:21:42 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[16-Jul-2024 16:21:42 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[17-Jul-2024 11:59:55 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[17-Jul-2024 11:59:55 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[17-Jul-2024 14:13:54 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[17-Jul-2024 14:13:54 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[17-Jul-2024 14:20:23 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[17-Jul-2024 14:20:23 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[17-Jul-2024 14:38:22 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[17-Jul-2024 14:38:22 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[17-Jul-2024 14:58:36 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[17-Jul-2024 14:58:36 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[17-Jul-2024 14:58:36 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[17-Jul-2024 14:58:36 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[17-Jul-2024 16:06:59 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[17-Jul-2024 16:06:59 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[18-Jul-2024 15:34:28 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[18-Jul-2024 15:34:28 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[19-Jul-2024 07:00:49 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[19-Jul-2024 07:01:32 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[19-Jul-2024 07:07:20 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 07:07:20 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 07:08:05 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[19-Jul-2024 07:13:42 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 07:13:42 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 07:14:08 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[19-Jul-2024 07:14:08 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[19-Jul-2024 07:14:08 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 07:14:08 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 07:14:12 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[19-Jul-2024 07:14:12 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[19-Jul-2024 07:14:12 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 07:14:12 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 07:14:12 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 379
+[19-Jul-2024 07:14:12 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 379
+[19-Jul-2024 07:14:16 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[19-Jul-2024 07:14:16 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[19-Jul-2024 07:14:16 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 07:14:16 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 07:26:13 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 07:26:13 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 07:26:18 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[19-Jul-2024 07:34:41 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[19-Jul-2024 07:34:41 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[19-Jul-2024 07:34:45 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[19-Jul-2024 07:34:45 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[19-Jul-2024 07:34:45 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[19-Jul-2024 07:34:45 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[19-Jul-2024 09:05:20 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[19-Jul-2024 09:05:20 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[19-Jul-2024 10:13:15 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 10:13:15 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 10:19:23 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 10:19:23 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 10:19:27 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[19-Jul-2024 10:25:47 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 10:25:47 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[19-Jul-2024 10:25:59 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[22-Jul-2024 07:38:34 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[22-Jul-2024 07:38:34 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[22-Jul-2024 10:06:57 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[22-Jul-2024 10:06:57 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[23-Jul-2024 08:05:58 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[23-Jul-2024 08:05:58 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[23-Jul-2024 11:31:31 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[23-Jul-2024 11:31:31 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[23-Jul-2024 11:31:33 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[23-Jul-2024 11:31:33 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[23-Jul-2024 11:31:33 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[23-Jul-2024 11:31:33 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[23-Jul-2024 15:20:37 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[23-Jul-2024 15:20:37 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[23-Jul-2024 15:20:39 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[23-Jul-2024 15:20:39 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[23-Jul-2024 15:20:39 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[23-Jul-2024 15:20:39 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[23-Jul-2024 15:39:37 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[23-Jul-2024 15:39:37 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[23-Jul-2024 16:07:26 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[24-Jul-2024 13:42:32 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[24-Jul-2024 13:42:32 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[24-Jul-2024 16:50:42 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[24-Jul-2024 16:50:42 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[25-Jul-2024 14:17:05 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[25-Jul-2024 14:17:05 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[26-Jul-2024 08:38:41 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[26-Jul-2024 08:38:41 America/Bogota] PHP Warning:  Undefined variable $sesion_id in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 63
+[26-Jul-2024 08:38:41 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[26-Jul-2024 08:38:41 America/Bogota] PHP Warning:  Undefined array key "car_cont1" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[26-Jul-2024 09:23:13 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[26-Jul-2024 09:23:13 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[26-Jul-2024 09:27:37 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[26-Jul-2024 09:27:37 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[26-Jul-2024 11:40:10 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[26-Jul-2024 14:22:43 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[26-Jul-2024 14:22:43 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[26-Jul-2024 17:36:26 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[26-Jul-2024 17:36:26 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[29-Jul-2024 10:30:09 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[29-Jul-2024 10:30:09 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[30-Jul-2024 14:17:55 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[30-Jul-2024 14:17:55 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[30-Jul-2024 18:38:35 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[30-Jul-2024 18:38:35 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[01-Aug-2024 08:27:03 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[01-Aug-2024 08:27:03 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[02-Aug-2024 08:16:04 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[02-Aug-2024 08:16:04 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[02-Aug-2024 08:16:07 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[02-Aug-2024 08:16:07 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[02-Aug-2024 08:16:11 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[02-Aug-2024 09:03:06 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[02-Aug-2024 09:03:06 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[02-Aug-2024 09:33:29 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[06-Aug-2024 09:03:27 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[06-Aug-2024 09:03:27 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[06-Aug-2024 09:03:27 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[06-Aug-2024 09:03:27 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[06-Aug-2024 10:25:50 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[06-Aug-2024 10:25:50 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[06-Aug-2024 10:25:50 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[06-Aug-2024 10:25:50 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[06-Aug-2024 10:26:21 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[06-Aug-2024 10:29:00 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[06-Aug-2024 10:29:00 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[06-Aug-2024 14:32:03 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[06-Aug-2024 14:32:03 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[06-Aug-2024 14:48:08 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[06-Aug-2024 14:48:08 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[06-Aug-2024 16:42:30 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[06-Aug-2024 16:42:30 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[08-Aug-2024 08:33:10 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[08-Aug-2024 08:33:10 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[08-Aug-2024 08:33:22 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[08-Aug-2024 08:33:22 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[08-Aug-2024 08:59:32 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[08-Aug-2024 08:59:32 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[08-Aug-2024 09:12:36 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[08-Aug-2024 09:12:36 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[08-Aug-2024 09:36:03 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[08-Aug-2024 09:36:03 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[09-Aug-2024 16:03:40 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[09-Aug-2024 16:03:40 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[09-Aug-2024 16:03:41 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[09-Aug-2024 16:03:41 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[12-Aug-2024 12:02:17 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[12-Aug-2024 12:02:17 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[12-Aug-2024 12:02:26 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[12-Aug-2024 12:02:26 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[12-Aug-2024 15:53:25 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[12-Aug-2024 15:53:25 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[12-Aug-2024 15:53:28 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[12-Aug-2024 15:53:28 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[12-Aug-2024 15:53:28 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[12-Aug-2024 15:53:28 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[13-Aug-2024 08:11:23 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[13-Aug-2024 08:11:23 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[13-Aug-2024 08:11:23 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[13-Aug-2024 08:11:23 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[13-Aug-2024 09:38:10 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[13-Aug-2024 09:38:10 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[13-Aug-2024 09:38:10 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[13-Aug-2024 09:38:10 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[13-Aug-2024 09:38:17 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[13-Aug-2024 10:42:41 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[13-Aug-2024 10:42:41 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[13-Aug-2024 11:17:28 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[13-Aug-2024 11:17:28 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[13-Aug-2024 11:46:21 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[13-Aug-2024 12:17:40 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[13-Aug-2024 12:17:40 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[13-Aug-2024 12:17:40 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[13-Aug-2024 12:17:40 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[13-Aug-2024 12:17:53 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[14-Aug-2024 07:52:16 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[14-Aug-2024 07:52:16 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[14-Aug-2024 07:52:19 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[14-Aug-2024 07:52:19 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[14-Aug-2024 07:52:19 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[14-Aug-2024 07:52:19 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[14-Aug-2024 18:58:08 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[14-Aug-2024 18:58:08 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[15-Aug-2024 10:02:12 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[15-Aug-2024 10:02:12 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[21-Aug-2024 10:19:27 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[21-Aug-2024 10:19:27 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[22-Aug-2024 08:44:55 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[22-Aug-2024 08:44:55 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[22-Aug-2024 10:04:28 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[22-Aug-2024 10:04:28 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[22-Aug-2024 16:03:06 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[22-Aug-2024 16:03:06 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[23-Aug-2024 10:52:41 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[23-Aug-2024 10:52:41 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[23-Aug-2024 12:25:52 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[23-Aug-2024 12:25:52 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[23-Aug-2024 15:20:10 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[23-Aug-2024 15:20:10 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[23-Aug-2024 15:40:35 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[23-Aug-2024 15:40:35 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[23-Aug-2024 15:40:37 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[23-Aug-2024 15:40:37 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[23-Aug-2024 15:40:37 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[23-Aug-2024 15:40:37 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[23-Aug-2024 16:31:16 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[26-Aug-2024 12:50:24 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[26-Aug-2024 12:50:24 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[26-Aug-2024 14:05:13 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[26-Aug-2024 14:05:13 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[26-Aug-2024 15:03:05 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[26-Aug-2024 15:03:05 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[26-Aug-2024 16:34:52 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[26-Aug-2024 16:34:52 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[26-Aug-2024 17:21:56 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[26-Aug-2024 17:21:56 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[27-Aug-2024 14:28:48 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[27-Aug-2024 14:28:48 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[28-Aug-2024 12:51:14 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[28-Aug-2024 12:51:14 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[28-Aug-2024 14:28:23 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[28-Aug-2024 14:28:23 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[29-Aug-2024 11:42:15 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[29-Aug-2024 11:42:15 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[29-Aug-2024 11:42:15 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[29-Aug-2024 11:42:15 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[29-Aug-2024 11:42:32 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[30-Aug-2024 14:13:16 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[30-Aug-2024 14:13:16 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[02-Sep-2024 11:08:31 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[02-Sep-2024 11:08:31 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[05-Sep-2024 14:57:30 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[05-Sep-2024 14:57:30 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[05-Sep-2024 14:57:30 America/Bogota] PHP Warning:  Undefined array key "car_cont1" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[06-Sep-2024 10:35:17 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[06-Sep-2024 10:35:17 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[06-Sep-2024 10:35:17 America/Bogota] PHP Warning:  Undefined array key "car_cont1" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[06-Sep-2024 15:08:25 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[06-Sep-2024 15:08:25 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[09-Sep-2024 11:21:08 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[09-Sep-2024 11:21:08 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[11-Sep-2024 10:55:38 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php:13
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes2/form.php(13): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 13
+[11-Sep-2024 10:55:47 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[11-Sep-2024 10:55:47 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[11-Sep-2024 10:55:53 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php:13
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/clientes2/form.php(13): PDO->query()
+#1 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 13
+[11-Sep-2024 15:25:05 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[11-Sep-2024 15:25:05 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[11-Sep-2024 15:25:07 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[11-Sep-2024 15:25:07 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[11-Sep-2024 15:25:07 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[11-Sep-2024 15:25:07 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[11-Sep-2024 16:32:44 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[11-Sep-2024 16:32:44 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[11-Sep-2024 16:32:44 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[11-Sep-2024 16:32:44 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[11-Sep-2024 16:33:25 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[16-Sep-2024 07:37:32 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[16-Sep-2024 07:37:32 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[16-Sep-2024 10:10:41 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[16-Sep-2024 16:30:09 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[16-Sep-2024 16:30:09 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[17-Sep-2024 11:02:59 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[17-Sep-2024 11:02:59 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[17-Sep-2024 11:03:14 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[17-Sep-2024 11:03:14 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[17-Sep-2024 11:04:57 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[17-Sep-2024 11:04:57 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[17-Sep-2024 11:04:57 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[17-Sep-2024 11:04:57 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[17-Sep-2024 11:05:07 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 133
+[18-Sep-2024 09:35:24 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[18-Sep-2024 09:35:24 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[19-Sep-2024 15:57:58 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[19-Sep-2024 15:57:58 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[19-Sep-2024 16:06:07 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[19-Sep-2024 16:06:07 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[20-Sep-2024 08:21:15 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[20-Sep-2024 08:21:15 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[23-Sep-2024 08:25:10 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[23-Sep-2024 08:25:10 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[23-Sep-2024 15:43:19 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[23-Sep-2024 15:43:19 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[23-Sep-2024 19:11:56 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[23-Sep-2024 19:11:56 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[23-Sep-2024 19:11:56 America/Bogota] PHP Warning:  Undefined array key "car_cont1" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[25-Sep-2024 10:48:38 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[25-Sep-2024 10:48:38 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[27-Sep-2024 10:21:15 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[27-Sep-2024 10:21:15 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[27-Sep-2024 12:05:13 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[27-Sep-2024 12:05:13 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[27-Sep-2024 12:06:02 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[27-Sep-2024 12:06:02 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[30-Sep-2024 18:27:18 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[30-Sep-2024 18:27:18 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[30-Sep-2024 18:27:18 America/Bogota] PHP Warning:  Undefined array key "car_cont1" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[01-Oct-2024 07:19:37 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[01-Oct-2024 07:19:37 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[02-Oct-2024 17:14:12 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[02-Oct-2024 17:14:12 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[02-Oct-2024 17:14:15 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[02-Oct-2024 17:14:15 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[02-Oct-2024 17:14:15 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[02-Oct-2024 17:14:15 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[03-Oct-2024 09:49:35 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[03-Oct-2024 09:49:35 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[03-Oct-2024 11:32:48 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[03-Oct-2024 11:32:48 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[04-Oct-2024 09:58:33 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[04-Oct-2024 09:58:33 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[09-Oct-2024 08:04:23 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[09-Oct-2024 08:04:23 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[09-Oct-2024 08:04:24 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[09-Oct-2024 08:04:24 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[09-Oct-2024 08:04:24 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[09-Oct-2024 08:04:24 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[09-Oct-2024 14:34:22 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[09-Oct-2024 14:34:23 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[09-Oct-2024 14:34:27 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[09-Oct-2024 14:34:27 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[10-Oct-2024 09:35:50 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[10-Oct-2024 09:35:50 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[10-Oct-2024 09:35:50 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[10-Oct-2024 09:35:50 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[10-Oct-2024 09:44:52 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[10-Oct-2024 09:44:52 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[11-Oct-2024 11:08:00 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[11-Oct-2024 11:08:00 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[16-Oct-2024 08:19:06 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[16-Oct-2024 08:19:06 America/Bogota] PHP Warning:  Trying to access array offset on value of type bool in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 251
+[16-Oct-2024 08:19:06 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[16-Oct-2024 08:19:06 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[16-Oct-2024 14:00:23 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[16-Oct-2024 14:00:23 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[16-Oct-2024 14:54:08 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[16-Oct-2024 14:54:08 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[18-Oct-2024 07:35:31 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[18-Oct-2024 07:35:31 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[18-Oct-2024 15:16:57 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[18-Oct-2024 15:16:57 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[21-Oct-2024 07:23:55 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[21-Oct-2024 07:23:55 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[21-Oct-2024 09:23:29 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[21-Oct-2024 09:23:29 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[21-Oct-2024 10:41:48 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[21-Oct-2024 10:41:48 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[21-Oct-2024 12:11:50 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[21-Oct-2024 12:11:50 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[24-Oct-2024 09:39:58 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[24-Oct-2024 09:39:58 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[24-Oct-2024 09:40:00 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[24-Oct-2024 09:40:00 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[24-Oct-2024 09:40:00 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[24-Oct-2024 09:40:00 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[24-Oct-2024 11:36:47 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[24-Oct-2024 11:36:47 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[25-Oct-2024 14:53:53 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[25-Oct-2024 14:53:53 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[28-Oct-2024 16:04:14 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[28-Oct-2024 16:04:14 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[28-Oct-2024 16:04:16 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[28-Oct-2024 16:04:16 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[28-Oct-2024 16:04:16 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[28-Oct-2024 16:04:16 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[30-Oct-2024 14:11:04 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[30-Oct-2024 14:11:04 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[31-Oct-2024 11:10:50 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[31-Oct-2024 11:10:50 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[31-Oct-2024 14:48:40 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[31-Oct-2024 14:48:40 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[31-Oct-2024 14:48:41 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[31-Oct-2024 14:48:41 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[31-Oct-2024 14:48:41 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[31-Oct-2024 14:48:41 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[31-Oct-2024 15:16:18 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[31-Oct-2024 15:16:18 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[05-Nov-2024 14:01:30 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[05-Nov-2024 14:01:30 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[05-Nov-2024 14:01:32 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[05-Nov-2024 14:01:32 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[05-Nov-2024 14:01:32 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[05-Nov-2024 14:01:32 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[07-Nov-2024 11:45:09 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[07-Nov-2024 11:45:09 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[07-Nov-2024 11:45:11 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[07-Nov-2024 11:45:11 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[07-Nov-2024 11:45:11 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[07-Nov-2024 11:45:11 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[07-Nov-2024 18:47:59 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[07-Nov-2024 18:47:59 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[07-Nov-2024 18:48:02 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[07-Nov-2024 18:48:02 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[07-Nov-2024 18:48:02 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[07-Nov-2024 18:48:02 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[08-Nov-2024 11:50:01 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[08-Nov-2024 11:50:01 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[08-Nov-2024 15:52:06 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[08-Nov-2024 15:52:06 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[12-Nov-2024 06:55:27 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[12-Nov-2024 06:55:27 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[12-Nov-2024 06:55:29 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[12-Nov-2024 06:55:29 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[12-Nov-2024 06:55:29 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[12-Nov-2024 06:55:29 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[12-Nov-2024 13:02:04 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[12-Nov-2024 13:02:04 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[12-Nov-2024 13:12:10 America/Bogota] PHP Warning:  Undefined variable $rActEco in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[12-Nov-2024 13:12:10 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home/masterqu/subdominios/INTRANET/application/clientes2/form.php on line 289
+[12-Nov-2024 13:14:14 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[12-Nov-2024 13:14:14 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[12-Nov-2024 13:14:14 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[12-Nov-2024 13:14:14 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[14-Nov-2024 11:20:32 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[14-Nov-2024 11:20:32 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[14-Nov-2024 12:02:41 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[14-Nov-2024 12:02:41 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[15-Nov-2024 11:56:42 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[15-Nov-2024 11:56:42 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[15-Nov-2024 11:56:43 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[15-Nov-2024 11:56:43 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[15-Nov-2024 11:56:43 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[15-Nov-2024 11:56:43 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[18-Nov-2024 14:57:53 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[18-Nov-2024 14:57:53 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[18-Nov-2024 15:52:00 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[18-Nov-2024 15:52:00 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[20-Nov-2024 13:51:29 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[20-Nov-2024 13:51:29 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[20-Nov-2024 13:51:29 America/Bogota] PHP Warning:  Undefined array key "car_cont1" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[25-Nov-2024 11:30:32 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[25-Nov-2024 11:30:32 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[25-Nov-2024 14:33:22 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[25-Nov-2024 14:33:22 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[25-Nov-2024 14:33:24 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[25-Nov-2024 14:33:24 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[25-Nov-2024 14:33:24 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[25-Nov-2024 14:33:24 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[26-Nov-2024 12:17:59 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[26-Nov-2024 12:17:59 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[28-Nov-2024 15:47:49 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[28-Nov-2024 15:47:49 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[04-Dec-2024 08:53:59 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 3
+[04-Dec-2024 08:53:59 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/content.php on line 96
+[04-Dec-2024 08:53:59 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[04-Dec-2024 08:53:59 America/Bogota] PHP Warning:  Undefined array key "table" in /home/masterqu/subdominios/INTRANET/application/clientes2/index.php on line 30
+[04-Dec-2024 12:34:36 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[04-Dec-2024 12:34:36 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[11-Dec-2024 15:13:34 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[11-Dec-2024 15:13:34 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[13-Dec-2024 12:51:58 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[13-Dec-2024 12:51:58 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[17-Dec-2024 10:56:54 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[17-Dec-2024 10:56:54 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94
+[18-Dec-2024 07:16:56 America/Bogota] PHP Warning:  Undefined variable $log_cli in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 60
+[18-Dec-2024 07:16:56 America/Bogota] PHP Warning:  Undefined array key "car_cont0" in /home/masterqu/subdominios/INTRANET/application/clientes2/clientes.controller.php on line 94

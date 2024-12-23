@@ -1,0 +1,40 @@
+.apro{
+     position: absolute;
+    margin-top: 0%;
+    right: 2%;
+    top: 5%;
+    width: 180px;
+
+
+}
+
+.desa{
+    position: absolute;
+    margin-top: 0%;
+    right: 2%;
+    top: 5%;
+    width: 180px;
+}
+
+@media screen and (max-width: 900px){
+    .apro{
+    top: 8%;
+    width: 90px;
+   }
+   .desa{
+    top: 8%;
+    width: 90px;
+   }
+
+}
+
+@media screen and (max-width: 360px){
+    .apro{
+        top: 30%;
+        width: 65px;
+       }
+       .desa{
+        top: 30%;
+        width: 65px;
+       }
+}

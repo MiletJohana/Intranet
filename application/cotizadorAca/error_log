@@ -1,0 +1,92 @@
+[08-Feb-2024 12:47:03 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 9
+[08-Feb-2024 12:47:03 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 16
+[08-Feb-2024 12:47:03 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 23
+[08-Feb-2024 12:47:03 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 30
+[08-Feb-2024 12:47:03 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 37
+[08-Feb-2024 12:47:03 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'masterqu_intra2.cot_tip_cotizacion_ACA' doesn't exist in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php:185
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php(185): PDO->query('SELECT * FROM c...')
+#1 /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php(45): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php on line 185
+[08-Feb-2024 12:47:03 America/Bogota] PHP Notice:  Undefined index: cerrar in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/boton.php on line 3
+[08-Feb-2024 13:07:03 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 9
+[08-Feb-2024 13:07:03 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 16
+[08-Feb-2024 13:07:03 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 23
+[08-Feb-2024 13:07:03 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 30
+[08-Feb-2024 13:07:03 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 37
+[08-Feb-2024 13:07:03 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'masterqu_intra2.cot_tip_cotizacion_ACA' doesn't exist in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php:185
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php(185): PDO->query('SELECT * FROM c...')
+#1 /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php(45): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php on line 185
+[08-Feb-2024 13:07:03 America/Bogota] PHP Notice:  Undefined index: cerrar in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/boton.php on line 3
+[08-Feb-2024 13:07:49 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 9
+[08-Feb-2024 13:07:49 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 16
+[08-Feb-2024 13:07:49 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 23
+[08-Feb-2024 13:07:49 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 30
+[08-Feb-2024 13:07:49 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 37
+[08-Feb-2024 13:07:49 America/Bogota] PHP Notice:  Undefined index: cerrar in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/boton.php on line 3
+[08-Feb-2024 13:07:49 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'masterqu_intra2.cot_tip_cotizacion_ACA' doesn't exist in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php:185
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php(185): PDO->query('SELECT * FROM c...')
+#1 /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php(45): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php on line 185
+[08-Feb-2024 13:12:57 America/Bogota] PHP Notice:  Undefined index: cerrar in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/boton.php on line 3
+[08-Feb-2024 13:12:57 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 9
+[08-Feb-2024 13:12:57 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 16
+[08-Feb-2024 13:12:57 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 23
+[08-Feb-2024 13:12:57 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 30
+[08-Feb-2024 13:12:57 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 37
+[08-Feb-2024 13:12:57 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'masterqu_intra2.cot_tip_cotizacion_ACA' doesn't exist in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php:185
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php(185): PDO->query('SELECT * FROM c...')
+#1 /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php(45): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php on line 185
+[08-Feb-2024 13:13:06 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 9
+[08-Feb-2024 13:13:06 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 16
+[08-Feb-2024 13:13:06 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 23
+[08-Feb-2024 13:13:06 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 30
+[08-Feb-2024 13:13:06 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 37
+[08-Feb-2024 13:13:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'masterqu_intra2.cot_tip_cotizacion_ACA' doesn't exist in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php:185
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php(185): PDO->query('SELECT * FROM c...')
+#1 /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php(45): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php on line 185
+[08-Feb-2024 13:13:06 America/Bogota] PHP Notice:  Undefined index: cerrar in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/boton.php on line 3
+[08-Feb-2024 14:13:17 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/subdominios/INTRANET/resources/template/head.php on line 20
+[08-Feb-2024 14:13:17 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 8
+[08-Feb-2024 14:13:17 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GROUP BY p.padre' at line 4 in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php:10
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/resources/template/navbar.php(10): PDO->query('SELECT p.padre ...')
+#1 /home/masterqu/subdominios/INTRANET/application/cotizadorAca/index.php(27): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/resources/template/navbar.php on line 10
+[08-Feb-2024 14:13:44 America/Bogota] PHP Notice:  Undefined index: cerrar in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/boton.php on line 3
+[08-Feb-2024 14:13:44 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 9
+[08-Feb-2024 14:13:44 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 16
+[08-Feb-2024 14:13:44 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 23
+[08-Feb-2024 14:13:44 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 30
+[08-Feb-2024 14:13:44 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 37
+[08-Feb-2024 14:13:44 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'masterqu_intra2.cot_tip_cotizacion_ACA' doesn't exist in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php:185
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php(185): PDO->query('SELECT * FROM c...')
+#1 /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php(45): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php on line 185
+[08-Feb-2024 14:28:26 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 9
+[08-Feb-2024 14:28:26 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 16
+[08-Feb-2024 14:28:26 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 23
+[08-Feb-2024 14:28:26 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 30
+[08-Feb-2024 14:28:26 America/Bogota] PHP Notice:  Undefined index: id_usu in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php on line 37
+[08-Feb-2024 14:28:26 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'masterqu_intra2.cot_tip_cotizacion_ACA' doesn't exist in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php:185
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php(185): PDO->query('SELECT * FROM c...')
+#1 /home/masterqu/subdominios/INTRANET/application/cotizadorAca/tabsForm.php(45): include('/home/masterqu/...')
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/formulario.php on line 185
+[08-Feb-2024 14:28:26 America/Bogota] PHP Notice:  Undefined index: cerrar in /home/masterqu/subdominios/INTRANET/application/cotizadorAca/boton.php on line 3

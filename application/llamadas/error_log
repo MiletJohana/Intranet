@@ -1,0 +1,8 @@
+[27-Oct-2023 16:06:17 America/Bogota] PHP Notice:  session_start(): A session had already been started - ignoring in /home/masterqu/public_html/subdominios/intranet/App/init.php on line 2
+[27-Oct-2023 16:06:17 America/Bogota] PHP Notice:  Undefined variable: session_dark in /home/masterqu/public_html/subdominios/intranet/resources/template/head.php on line 15
+[27-Oct-2023 16:06:17 America/Bogota] PHP Notice:  Undefined index: id in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 8
+[27-Oct-2023 16:06:17 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php:12
+Stack trace:
+#0 /home/masterqu/public_html/subdominios/intranet/application/llamadas/index.php(24): include()
+#1 {main}
+  thrown in /home/masterqu/public_html/subdominios/intranet/resources/template/navbar.php on line 12

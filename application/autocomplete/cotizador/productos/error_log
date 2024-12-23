@@ -1,0 +1,114 @@
+[07-May-2024 10:35:26 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%' or p.nom_pro like '%a7'%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[28-May-2024 15:28:22 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%' or p.nom_pro like '%491'%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[28-Jun-2024 12:16:32 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '00%' or p.nom_pro like '%80-4'00%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[28-Jun-2024 12:16:32 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0%' or p.nom_pro like '%80-4'0%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[28-Jun-2024 12:16:32 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%' or p.nom_pro like '%80-4'%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[10-Jul-2024 16:14:46 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TWIN,ANSI       %' or p.nom_pro like '%3100548 SRL NANO-LOK 6' TWIN,ANSI       %' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[10-Jul-2024 16:19:22 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TWIN,ANSI       %' or p.nom_pro like '%3100548 SRL NANO-LOK 6' TWIN,ANSI       %' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[10-Jul-2024 16:19:25 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TWIN,ANSI      %' or p.nom_pro like '%3100548 SRL NANO-LOK 6' TWIN,ANSI      %')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[27-Sep-2024 15:58:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '01%' or p.nom_pro like '%1228'01%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[27-Sep-2024 15:58:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '019%' or p.nom_pro like '%1228'019%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[30-Sep-2024 18:20:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%' or p.nom_pro like '%821'%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[18-Oct-2024 16:16:18 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GALV,PLASTIC,ANSI%' or p.nom_pro like '%3590034 SRL PRO 20' GALV,PLASTIC,ANSI%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[18-Oct-2024 16:16:19 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GALV,PLASTIC,ANS%' or p.nom_pro like '%3590034 SRL PRO 20' GALV,PLASTIC,ANS%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[18-Oct-2024 16:16:22 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GALV,PLASTIC,AN%' or p.nom_pro like '%3590034 SRL PRO 20' GALV,PLASTIC,AN%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[18-Oct-2024 16:16:23 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GALV,PLASTIC,A%' or p.nom_pro like '%3590034 SRL PRO 20' GALV,PLASTIC,A%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[18-Oct-2024 16:16:24 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GALV,PLASTIC,%' or p.nom_pro like '%3590034 SRL PRO 20' GALV,PLASTIC,%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[18-Oct-2024 16:16:24 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GALV,PLASTIC%' or p.nom_pro like '%3590034 SRL PRO 20' GALV,PLASTIC%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[23-Oct-2024 16:00:49 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%' or p.nom_pro like '%12'%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
+[14-Nov-2024 15:04:47 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%' or p.nom_pro like '%lija 28'%')' at line 5 in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php:24
+Stack trace:
+#0 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php(24): PDOStatement->execute()
+#1 /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/buscador.php(4): Producto->buscar()
+#2 {main}
+  thrown in /home/masterqu/subdominios/INTRANET/application/autocomplete/cotizador/productos/consulta.php on line 24
